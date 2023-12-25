@@ -16,7 +16,7 @@ Lensin Helsinki-Vantaalta Kroatian Splittiin.
 
 {{
     figure(
-        img="2023-spomenik-retki/day1/1.jpg"
+        img="day1/1.jpg"
         description="Lentokoneen ikkunasta näkyy Trogir, kylä Splitistä länteen.")
 }}
 
@@ -24,7 +24,7 @@ Ystäväni tulivat lentokentälle vastaan. He olivat lomailleet Splitissä jo pa
 
 {{
     figure(
-        img="2023-spomenik-retki/day1/map1.jpg"
+        img="day1/map1.jpg"
         description="Ensimmäisen retkipäivän reitti")
 }}
 
@@ -34,7 +34,7 @@ Ensimmäinen muistomerkki löytyi Makarskasta kaupungin keskeltä.
 
 {{
     figure(
-        img="2023-spomenik-retki/day1/2.jpg"
+        img="day1/2.jpg"
         description="Makarska Spomeniku revolucije")
 }}
 
@@ -49,13 +49,13 @@ Ensimmäinen muistomerkki löytyi Makarskasta kaupungin keskeltä.
 
 {{
     figure(
-        img="2023-spomenik-retki/day1/3.jpg"
+        img="day1/3.jpg"
         description="Makarskan taloja")
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day1/4.jpg"
+        img="day1/4.jpg"
         description="Pikkukatu Makarskassa")
 }}
 
@@ -63,7 +63,7 @@ Makarska on kaunis turistikaupunki hotelleineen ja ravintoloineen.
 
 {{
     figure(
-        img="2023-spomenik-retki/day1/5.jpg"
+        img="day1/5.jpg"
         description="Makarskan Pyhän Markuksen kirkko")
 }}
 
@@ -71,7 +71,7 @@ Matka jatkui rantatietä pitkin Makarskasta Podgoraan. Mäen päällä odotti se
 
 {{
     figure(
-        img="2023-spomenik-retki/day1/6.jpg"
+        img="day1/6.jpg"
         description="Spomenik Galebova krila")
 }}
 
@@ -86,13 +86,13 @@ Matka jatkui rantatietä pitkin Makarskasta Podgoraan. Mäen päällä odotti se
 
 {{
     figure(
-        img="2023-spomenik-retki/day1/7.jpg"
+        img="day1/7.jpg"
         description="Näkymä mäen päältä Podgoraan")
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day1/8.jpg"
+        img="day1/8.jpg"
         description="Kroatialainen auringonlasku Podgorassa")
 }}
 
@@ -106,13 +106,13 @@ Kävelimme aamupäivän Mostarissa.
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/1.jpg"
+        img="day2/1.jpg"
         description="Mostarissa majapaikkamme oli tämän talon lähellä.")
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/2.jpg"
+        img="day2/2.jpg"
         description="Kioski Mostarissa")
 }}
 
@@ -120,7 +120,7 @@ Kaupungin kuuluisin maamerkki eli Mostarin silta jäi tällä kertaa näkemätt�
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/3.jpg"
+        img="day2/3.jpg"
         description="Partizansko Groblje u Mostaru")
 }}
 
@@ -135,7 +135,7 @@ Kaupungin kuuluisin maamerkki eli Mostarin silta jäi tällä kertaa näkemätt�
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/4.jpg"
+        img="day2/4.jpg"
         description="Mostarin muistohautausmaan hautakivet lojuvat maassa rikottuina."
     )
 }}
@@ -144,7 +144,7 @@ Alueella liikkui meidän lisäksemme vain yksittäisiä turisteja.
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/5.jpg"
+        img="day2/5.jpg"
         description="Kauniita geometrisia kuvioita Mostarin muistohautausmaalla"
     )
 }}
@@ -153,7 +153,7 @@ Pidin kovasti paikan geometrisista kuvioista ja tilan tunnusta.
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/6.jpg"
+        img="day2/6.jpg"
         description="Minä muistohautausmaan portilla"
         credits="Joel Lindfors"
     )
@@ -161,7 +161,7 @@ Pidin kovasti paikan geometrisista kuvioista ja tilan tunnusta.
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/map1.jpg"
+        img="day2/map1.jpg"
         description="Toisen retkipäivän reitti"
     )
 }}
@@ -170,14 +170,14 @@ Mostarista lähdimme kohti Bihaćia, jossa meillä oli yöpymispaikka.
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/7.jpg"
+        img="day2/7.jpg"
         description="Bosnia & Hertsegovinan maaseutu on vuoristoista."
     )
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/8.jpg"
+        img="day2/8.jpg"
         description="Ašćinica Happiness"
     )
 }}
@@ -186,21 +186,21 @@ Pysähdyimme syömään Livnossa. [Ašćinica Happiness](https://www.tripadvisor
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/9.jpg"
+        img="day2/9.jpg"
         description="Mega Market"
     )
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/10.jpg"
+        img="day2/10.jpg"
         description="Talot tai niiden rauniot ovat usein suoraan päätien varrella."
     )
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/11.jpg"
+        img="day2/11.jpg"
         description="Spomenik Medeno Polje"
     )
 }}
@@ -218,7 +218,7 @@ Asetuimme Bihaćiin iltapäivällä, ja lähdimme vielä katsomaan monumenttia k
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/12.jpg"
+        img="day2/12.jpg"
         description="Spomen-područje Garavice"
     )
 }}
@@ -234,14 +234,14 @@ Asetuimme Bihaćiin iltapäivällä, ja lähdimme vielä katsomaan monumenttia k
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/13.jpg"
+        img="day2/13.jpg"
         description="Spomen-područje Garavice"
     )
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/14.jpg"
+        img="day2/14.jpg"
         description="Aurinko laskee."
     )
 }}
@@ -250,7 +250,7 @@ Kello oli kuusi illalla, ja aurinko oli laskemassa mäen taakse. Laskeskelimme, 
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/15.jpg"
+        img="day2/15.jpg"
         description="Mäen juurella ainut parkkipaikka on omakotitalon pihassa."
     )
 }}
@@ -261,7 +261,7 @@ Nousimme autosta. Ilman taskulamppua eteensä ei nähnyt metriäkään.
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/16.jpg"
+        img="day2/16.jpg"
         description="Pimeässä metsässä Grmeč-vuorella"
     )
 }}
@@ -270,7 +270,7 @@ Oikea aukio löytyi, mutta kesti silti hetken ennen kuin silmät tottuivat pime�
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/17.jpg"
+        img="day2/17.jpg"
         description="Grmeč Korčanica spomenik"
     )
 }}
@@ -286,7 +286,7 @@ Oikea aukio löytyi, mutta kesti silti hetken ennen kuin silmät tottuivat pime�
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/18.jpg"
+        img="day2/18.jpg"
         description="Minä Grmečin betonikuvun sisällä!"
         credits="Sanni Mättö"
     )
@@ -296,7 +296,7 @@ Grmečin monumentilla oli aivan hiljaista ja pimeys täydellistä. Vain mukana t
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/19.jpg"
+        img="day2/19.jpg"
         description="Grmečin monumentin alakerta"
     )
 }}
@@ -305,7 +305,7 @@ Monumentin lähellä on myös hylätty hotelli, mutta matkaseurueeni ei suostunu
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/map2.jpg"
+        img="day2/map2.jpg"
         description="Yöseikkailun reitti"
     )
 }}
@@ -314,7 +314,7 @@ Palasimme autolle noin yhdeksältä illalla. Auto ei enää antanut mitään arv
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/20.jpg"
+        img="day2/20.jpg"
         description="Epätoivo iskee – bensa-asema oli sulkenut etuajassa."
     )
 }}
@@ -325,7 +325,7 @@ Paikalliset ohikulkijat neuvoivat 24/7-huoltoaseman seuraavassa kylässä, ja aj
 
 {{
     figure(
-        img="2023-spomenik-retki/day2/21.jpg"
+        img="day2/21.jpg"
         description="Sanski Mostin huoltoasema"
     )
 }}
@@ -340,14 +340,14 @@ Bihaćin Airbnb-emäntämme tarjosi aamukahvit kauniilla pihallaan. En yleensä 
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/1.jpg"
+        img="day3/1.jpg"
         description="Euroopan Unionin ulkoraja Bosnia & Hertsegovinan ja Kroatian välissä"
     )
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/map1.jpg"
+        img="day3/map1.jpg"
         description="Kolmannen retkipäivän reitti"
     )
 }}
@@ -356,14 +356,14 @@ Ajoimme Bihaćista rajan yli takaisin Kroatiaan ja suoraan Plitvicen kansallispu
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/2.jpg"
+        img="day3/2.jpg"
         description="Plitvicen kansallispuisto"
     )
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/3.jpg"
+        img="day3/3.jpg"
         description="Vesiputous Plitvicessä"
     )
 }}
@@ -374,7 +374,7 @@ Plitvicestä lähdimme ajamaan kohti Petrova Gora -vuorta ja sen korkeinta huipp
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/4.jpg"
+        img="day3/4.jpg"
         description="Pysähdyimme syömään Slunjissa."
     )
 }}
@@ -383,7 +383,7 @@ Paras reitti Petrova Goralle olisi kulkenut moottoriteitä pitkin, mutta kartanl
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/5.jpg"
+        img="day3/5.jpg"
         description="Kroatian maanteiden varsilla on paljon ränsistyneitä tai keskeneräisiä luonnon armoille jääneitä rakennuksia."
     )
 }}
@@ -392,7 +392,7 @@ Ajoimme pitkään mutaisia sorateitä pitkin. Mäen rinne oli sen verran loiva, 
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/6.jpg"
+        img="day3/6.jpg"
         description="Petrova Goran monumentille vievät portaat"
     )
 }}
@@ -401,7 +401,7 @@ Monumentin edessä on raunioitunut vierailukeskus ja parkkipaikka.
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/7.jpg"
+        img="day3/7.jpg"
         description="Petrova Gora spomenik"
     )
 }}
@@ -419,7 +419,7 @@ Monumentin painava ovi oli hieman raollaan. Oveen oli kiinnitetty kyltti, jossa 
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/8.jpg"
+        img="day3/8.jpg"
         description="Rakennuksessa on tyylikäs porraskäytävä."
     )
 }}
@@ -430,14 +430,14 @@ Petrova Goran monumentti on aikoinaan toiminut sotamuseona. Nyt kaikki irtaimist
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/9.jpg"
+        img="day3/9.jpg"
         description="Kaikki museon irtaimisto on kauan sitten kadonnut."
     )
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/10.jpg"
+        img="day3/10.jpg"
         description="Monumentin portaikko"
     )
 }}
@@ -447,7 +447,7 @@ Monumentti on ollut hylättynä ja luonnon armoilla 90-luvulta lähtien. Suuri o
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/11.jpg"
+        img="day3/11.jpg"
         description="Reikä seinässä"
     )
 }}
@@ -456,7 +456,7 @@ Osa seinistä on täysin avonaisia ja suojaamattomia, joten tuuli puhaltaa suora
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/12.jpg"
+        img="day3/12.jpg"
         description="Tämä sähkökaappi ei ole enää käytössä."
     )
 }}
@@ -465,21 +465,21 @@ Ylimmässä kerroksessa kuului sähkölaitteiden huminaa. Miten täällä voi ol
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/13.jpg"
+        img="day3/13.jpg"
         description="Petrova Goran monumentin katolta näkee kauas."
     )
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/14.jpg"
+        img="day3/14.jpg"
         description="Monumentin päällä kasvaa pensaita."
     )
 }}
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/15.jpg"
+        img="day3/15.jpg"
         description="Petrova Goran monumentin vierailukeskus"
     )
 }}
@@ -488,7 +488,7 @@ Aurinko oli laskemassa, ja alkoi jo väsyttää. Ajoimme illaksi Zagrebiin lepä
 
 {{
     figure(
-        img="2023-spomenik-retki/day3/16.jpg"
+        img="day3/16.jpg"
         description="Auringonlasku moottoritiellä matkalla Zagrebiin"
     )
 }}
@@ -503,7 +503,7 @@ Retki oli ainakin omalta osaltani erittäin onnistunut. Vaikka jännittäviä ti
 
 {{
     figure(
-        img="2023-spomenik-retki/day4/1.jpg"
+        img="day4/1.jpg"
         description="Zagrebin lentokenttä"
     )
 }}
