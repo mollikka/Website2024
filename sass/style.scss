@@ -1,8 +1,15 @@
-$accent-color: #f85ba9;
+$accent-color-back: #9f1c5d;
+$accent-color-front: #f97bba;
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
 
 body {
-  color: black;
-  background-color: rgb(255, 255, 255);
+  color: white;
+  background-color: rgb(35, 35, 35);
 
   font-family: monospace;
   font-size: 1rem;
@@ -14,9 +21,23 @@ body {
   margin: auto;
 }
 
+.decorative-ascii {
+  color: $accent-color-back;
+}
+
+.table-of-contents {
+  @media screen and (min-width: 145ch) {
+    position: fixed;
+    left: 0;
+    top: 1.4em;
+    max-width: 30ch;
+  }
+  overflow-wrap: break-word;
+}
+
 h1 {
   font-size: 2rem;
-  background-color: $accent-color;
+  background-color: $accent-color-back;
   font-weight: bolder;
 }
 
@@ -26,7 +47,7 @@ h1 {
 
 h2 {
   font-size: 1rem;
-  background-color: rgba($accent-color, 0.4);
+  background-color: rgba($accent-color-back, 0.4);
   font-weight: bolder;
 }
 
@@ -48,7 +69,6 @@ figure {
   }
 
   figcaption {
-    color: rgb(15, 15, 15);
     font-style: italic;
     text-align: left;
   }
@@ -61,6 +81,20 @@ figure {
   }
 }
 
+p {
+  margin-top: 1.4em;
+  margin-bottom: 1.4em;
+}
+
 a {
   text-decoration: none;
+  color: $accent-color-front;
+}
+
+ul {
+  list-style: none;
+  li::before {
+    content: "  >> ";
+  }
+  padding-inline-start: 1ch;
 }
