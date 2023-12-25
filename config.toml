@@ -13,4 +13,8 @@ build_search_index = false
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+menu_items = [
+    {name = "head", url = "/"},
+    {name = "text", url = "/text"},
+    {name = "about", url = "/about"},
+]
