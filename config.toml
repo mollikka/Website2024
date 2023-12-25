@@ -15,6 +15,7 @@ highlight_code = true
 [extra]
 menu_items = [
     {name = "head", url = "/"},
+    {name = "artwork", url = "/artwork"},
     {name = "text", url = "/text"},
     {name = "about", url = "/about"},
 ]

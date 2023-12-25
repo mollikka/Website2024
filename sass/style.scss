@@ -1,4 +1,5 @@
-$accent-color-back: #9f1c5d;
+$background-color: rgb(35, 35, 35);
+$accent-color-back: #721242;
 $accent-color-front: #f97bba;
 
 * {
@@ -9,7 +10,7 @@ $accent-color-front: #f97bba;
 
 body {
   color: white;
-  background-color: rgb(35, 35, 35);
+  background-color: $background-color;
 
   font-family: monospace;
   font-size: 1rem;
@@ -97,4 +98,19 @@ ul {
     content: "  >> ";
   }
   padding-inline-start: 1ch;
+}
+
+.artwork {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.gallery {
+  li {
+    display: inline-block;
+    width: 28ch;
+  }
+  .thumbnail {
+    width: 90%;
+  }
 }

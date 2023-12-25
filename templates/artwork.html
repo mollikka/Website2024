@@ -1,0 +1,8 @@
+{% extends "base.html" %} {% block content %}
+<h1>{{ page.title }} ({{ page.year }})</h1>
+<p class="date">{{ page.date }}</p>
+
+<img class="artwork" src="{{ page.extra.image }}" />
+
+<p>{{ page.description }}</p>
+{{ page.content | safe }} {% endblock content %}

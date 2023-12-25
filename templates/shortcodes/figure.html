@@ -1,6 +1,7 @@
 <figure>
   <img src="{{ img }}" alt="{{ description }}" />
   <figcaption>
-    {{ description }} {% if credits %}Kuva: {{ credits }}{% endif %}
+    {% if not hidetext %}{{ description }}{% endif %} {% if credits %}Kuva: {{
+    credits }}{% endif %}
   </figcaption>
 </figure>
