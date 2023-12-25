@@ -8,7 +8,7 @@ Syksyllä 2023 tein kahden ystäväni kanssa retken Kroatian ja Bosnia & Hertseg
 
 Päätarkoituksenani oli päästä näkemään entisen Jugoslavian toisen maailmansodan muistomerkkejä eli spomenikkeja, ja ihmeen kaupalla ystävänikin innostuivat tästä ajatuksesta. Abstraktit, modernistiset, usein betonista ja teräksestä rakennetut monumentit muistuttavat sotilaista, siviiliuhreista, taisteluista ja tukikohdista. Monet muistomerkeistä on tuhottu, hylätty tai unohdettu Jugoslavian hajottua, ja suuri osa jäljellä olevista rapistuu vuosi vuodelta.
 
-Käytimme hyväksemme [Spomenik Database](https://www.spomenikdatabase.org/)-sivustoa, joka listaa tunnetut muistomerkit.
+Käytimme hyväksemme [Spomenik Database](https://www.spomenikdatabase.org/) -sivustoa, joka listaa tunnetut muistomerkit.
 
 ## Ensimmäinen matkapäivä
 
@@ -79,7 +79,7 @@ Matka jatkui rantatietä pitkin Makarskasta Podgoraan. Mäen päällä odotti se
     landmark(
         title="Spomenik: Spomenik Galebova krila, “Lokin siivet”"
         link="https://www.spomenikdatabase.org/podgora"
-        description="Tämä on fasisisia miehittäjiä vastustaneiden merivoimien muistomerkki. Monumentti on keskeisellä paikalla, ja näytti olevan hyvässä kunnossa. Lokin siipien alla oli meneillään joogatunti, kun vierailimme mäellä."
+        description="Tämä on fasistisia miehittäjiä vastustaneiden merivoimien muistomerkki. Monumentti on keskeisellä paikalla, ja näytti olevan hyvässä kunnossa. Lokin siipien alla oli meneillään joogatunti, kun vierailimme mäellä."
         longitude=17.0705278
         latitude=43.2457222)
 }}
