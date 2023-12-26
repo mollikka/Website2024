@@ -2,6 +2,22 @@ $background-color: rgb(35, 35, 35);
 $accent-color-back: #721242;
 $accent-color-front: #f97bba;
 
+@media print {
+  /* All your print styles go here */
+  header,
+  footer,
+  nav {
+    display: none !important;
+  }
+  body {
+    color: black !important;
+    max-width: 100% !important;
+  }
+  a::after {
+    content: " (" attr(href) ") ";
+  }
+}
+
 * {
   margin: 0;
   padding: 0;
