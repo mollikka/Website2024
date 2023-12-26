@@ -27,12 +27,13 @@ body {
 }
 
 .table-of-contents {
-  @media screen and (min-width: 145ch) {
-    position: fixed;
-    left: 0;
-    top: 1.4em;
-    max-width: 30ch;
+  @media screen and (max-width: 150ch) {
+    display: none;
   }
+  position: fixed;
+  left: 2ch;
+  top: 1.4em;
+  width: 30ch;
   overflow-wrap: break-word;
 }
 
@@ -94,10 +95,15 @@ a {
 
 ul {
   list-style: none;
-  li::before {
-    content: "  >> ";
+}
+
+section {
+  ul {
+    li::before {
+      content: "  > ";
+    }
+    padding-inline-start: 1ch;
   }
-  padding-inline-start: 1ch;
 }
 
 .artwork {
