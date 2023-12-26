@@ -43,14 +43,16 @@ body {
 }
 
 .table-of-contents {
-  @media screen and (max-width: 150ch) {
-    display: none;
+  display: none;
+
+  @media screen and (min-width: 150ch) {
+    display: block;
+    position: fixed;
+    left: 2ch;
+    top: 1.4em;
+    width: 30ch;
+    overflow-wrap: break-word;
   }
-  position: fixed;
-  left: 2ch;
-  top: 1.4em;
-  width: 30ch;
-  overflow-wrap: break-word;
 }
 
 h1 {
@@ -64,13 +66,16 @@ h1 {
 }
 
 h2 {
+  margin-top: 1em;
   font-size: 1rem;
-  background-color: rgba($accent-color-back, 0.4);
+  background-color: rgba($accent-color-back, 0.5);
   font-weight: bolder;
 }
 
 h3 {
+  margin-top: 1em;
   font-size: 1rem;
+  background-color: rgba($accent-color-back, 0.25);
   font-weight: bold;
 }
 
@@ -110,16 +115,12 @@ a {
 }
 
 ul {
-  list-style: none;
-}
-
-section {
-  ul {
-    li::before {
-      content: "  > ";
-    }
-    padding-inline-start: 1ch;
+  li::before {
+    content: "  > ";
   }
+  padding-inline-start: 0;
+  list-style: none;
+  padding: 1.4em 0 1.4em 1ch;
 }
 
 .artwork {
