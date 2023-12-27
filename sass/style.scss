@@ -56,7 +56,7 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2em;
   background-color: $accent-color-back;
   font-weight: bolder;
 }
@@ -66,15 +66,14 @@ h1 {
 }
 
 h2 {
-  margin-top: 1em;
-  font-size: 1rem;
+  font-size: 1em;
   background-color: rgba($accent-color-back, 0.5);
   font-weight: bolder;
 }
 
 h3 {
-  margin-top: 1em;
-  font-size: 1rem;
+  margin-top: 1.4em;
+  font-size: 1em;
   background-color: rgba($accent-color-back, 0.25);
   font-weight: bold;
 }
@@ -83,7 +82,7 @@ figure {
   max-width: 100%;
   text-align: center;
   margin: auto;
-  padding: 1ch;
+  padding: 1.4em 1ch 1.4em 1ch;
 
   img {
     display: inline-block;
