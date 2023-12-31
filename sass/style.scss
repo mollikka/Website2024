@@ -19,7 +19,7 @@ $accent-color-front: #f97bba;
 }
 
 html {
-  font-size: 64%;
+  font-size: 80%;
 }
 
 * {
@@ -42,12 +42,11 @@ body {
   margin: auto;
 }
 
-
 .table-of-contents-top-bottom {
   display: none;
 }
 
-@media screen and (min-width: 180ch) {
+@media screen and (min-width: 100em) {
   .table-of-contents-top-bottom {
     display: block;
   }
