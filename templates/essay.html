@@ -1,5 +1,7 @@
 {% extends "base.html" %} {% block content %}
 <h1>{{ page.title }}{% if page.year %} ({{ page.year }}){% endif %}</h1>
+<p><emph>{{ page.description }}</emph></p>
+<nav>{% include "includes/tableOfContents.html" %}</nav>
 <p class="date">{{ page.date }}</p>
 
 {{ page.content | safe }} {% endblock content %}
