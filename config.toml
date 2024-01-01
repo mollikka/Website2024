@@ -21,5 +21,5 @@ menu_items = [
     {name = "music", url = "/music"},
     {name = "design", url = "/design", theme="themeRed"},
     {name = "text", url = "/text"},
-    {name = "about", url = "/about"},
+    {name = "tail", url = "/tail"},
 ]
