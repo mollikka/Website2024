@@ -1,6 +1,6 @@
 +++
 title = "List of design work"
 sort_by = "date"
-template = "gallery.html"
+template = "catalog/gallery.html"
 page_template = "artwork.html"
 +++

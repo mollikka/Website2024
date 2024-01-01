@@ -3,7 +3,9 @@
     <a href="#top">↑</a> <a href="#bottom">↓</a>
   </div>
   {% if page.toc %}
-  <div class="decorative-ascii">=====--------------------=====</div>
+  <div aria-hidden="true" class="decorative-ascii">
+    =====--------------------=====
+  </div>
   <ul>
     {% for h1 in page.toc %}
     <li>
@@ -29,6 +31,8 @@
     </li>
     {% endfor %}
   </ul>
-  <div class="decorative-ascii">=====--------------------=====</div>
+  <div aria-hidden="true" class="decorative-ascii">
+    =====--------------------=====
+  </div>
   {% endif %}
 </div>
