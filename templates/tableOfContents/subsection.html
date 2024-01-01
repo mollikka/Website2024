@@ -10,7 +10,7 @@
     %}
     <li>
       <a href="#subsection-{{ subsection.components | last | safe }}"
-        >{{ subsection.components | last | safe }}</a
+        >{{ subsection.components | last | capitalize | safe }}</a
       >
       {% endfor %}
     </li>

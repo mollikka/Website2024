@@ -1,5 +1,5 @@
 +++
-title = "List of artworks"
+title = "Artwork"
 sort_by = "date"
 template = "catalog/galleryWithSubsections.html"
 page_template = "artwork.html"

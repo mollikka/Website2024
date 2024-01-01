@@ -13,7 +13,7 @@ build_search_index = false
 highlight_code = true
 
 [extra]
-languages = ["Suomi"]
+languages = ["Suomeksi"]
 
 menu_items = [
     {name = "head", url = "/"},

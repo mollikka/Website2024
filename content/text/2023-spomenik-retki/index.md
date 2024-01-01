@@ -3,7 +3,7 @@ title = "Spomenik-retki"
 description = "Seikkailu Kroatiassa ja Bosnia & Hertsegovinassa syyskuussa 2023"
 date = "2023-12-24"
 [extra]
-language = "Suomi"
+language = "Suomeksi"
 +++
 
 Syksyllä 2023 tein kahden ystäväni kanssa retken Kroatian ja Bosnia & Hertsegovinan halki.
