@@ -1,0 +1,21 @@
+<div class="table-of-contents">
+  <div class="table-of-contents-top-bottom">
+    <a href="#top">↑</a> <a href="#bottom">↓</a>
+  </div>
+  <div aria-hidden="true" class="decorative-ascii">
+    =====--------------------=====
+  </div>
+  <ul>
+    {% for ss in section.subsections %} {% set subsection = get_section(path=ss)
+    %}
+    <li>
+      <a href="#subsection-{{ subsection.components | last | safe }}"
+        >{{ subsection.components | last | safe }}</a
+      >
+      {% endfor %}
+    </li>
+  </ul>
+  <div aria-hidden="true" class="decorative-ascii">
+    =====--------------------=====
+  </div>
+</div>

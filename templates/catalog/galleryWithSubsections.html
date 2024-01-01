@@ -1,0 +1,25 @@
+{% extends "base.html" %} {% block content %}
+<h1>{{ section.title }}</h1>
+<nav>{% include "tableOfContents/subsection.html" %}</nav>
+
+<ul class="gallery">
+  {% for ss in section.subsections %} {% set subsection = get_section(path=ss)
+  %}
+  <h2 id="subsection-{{ subsection.components | last | safe }}">
+    <a href="{{ subsection.permalink }}"
+      >{{ subsection.components | last | safe }}</a
+    >
+  </h2>
+  {% for page in subsection.pages %}
+  <li>
+    <a href="{{ page.permalink | safe }}">
+      {{ page.title }} ({{ page.year }}) {% for asset in page.assets %} {%- if
+      asset is matching(page.extra.image) -%} {% set image =
+      resize_image(path=asset, width=400, height=400, op="fit") %}
+      <img class="thumbnail" src="{{ image.url }}" />
+      {% endif %} {% endfor %}
+    </a>
+  </li>
+  {% endfor %} {% endfor %}
+</ul>
+{% endblock content %}
