@@ -22,12 +22,37 @@
     <link rel="stylesheet" href="/style.css" />
   </head>
 
-  <body>
+  <body
+    {%
+    if
+    section.extra.theme
+    %}class="{{ section.extra.theme }}"
+    {%
+    else
+    %}class="themeDefault"
+    {%
+    endif
+    %}
+  >
     <header>
-      <nav>
+      <nav class="themeDefault">
         <a href="../"><<</a>
-        {% for link in menu %}/ <a href="{{ link.url }}">{{ link.name }}</a> /{%
-        endfor %}
+        {% for link in menu %}/
+        <a
+          {%
+          if
+          link.theme
+          %}class="{{ link.theme }}"
+          {%
+          else
+          %}class="themeDefault"
+          {%
+          endif
+          %}
+          href="{{ link.url }}"
+          >{{ link.name }}</a
+        >
+        /{% endfor %}
       </nav>
       <div aria-hidden="true" class="decorative-ascii">
         \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\

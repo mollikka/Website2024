@@ -1,6 +1,33 @@
 $background-color: rgb(35, 35, 35);
-$accent-color-back: #721242;
-$accent-color-front: #f97bba;
+
+$background-gray: rgb(35, 35, 35);
+$accent-back-gray: #505050;
+$accent-front-gray: #aaaaaa;
+
+$background-blue: rgb(36, 30, 40);
+$accent-back-blue: #2163a1;
+$accent-front-blue: #74c0ec;
+
+$background-red: rgb(30, 30, 40);
+$accent-back-red: #940a4f;
+$accent-front-red: #f97bba;
+
+body,
+.themeDefault {
+  --background-color: #{$background-gray};
+  --accent-color-front: #{$accent-front-gray};
+  --accent-color-back: #{$accent-back-gray};
+}
+.themeBlue {
+  --background-color: #{$background-blue};
+  --accent-color-front: #{$accent-front-blue};
+  --accent-color-back: #{$accent-back-blue};
+}
+.themeRed {
+  --background-color: #{$background-red};
+  --accent-color-front: #{$accent-front-red};
+  --accent-color-back: #{$accent-back-red};
+}
 
 @media print {
   /* All your print styles go here */
@@ -31,7 +58,7 @@ html {
 
 body {
   color: white;
-  background-color: $background-color;
+  background-color: var(--background-color);
 
   font-family: monospace;
   line-height: 1.4;
@@ -62,14 +89,14 @@ body {
 }
 
 .decorative-ascii {
-  color: $accent-color-back;
+  color: var(--accent-color-back);
   overflow: hidden;
   white-space: nowrap;
 }
 
 h1 {
   font-size: 2em;
-  background-color: $accent-color-back;
+  background-color: var(--accent-color-back);
   font-weight: bolder;
 }
 
@@ -79,14 +106,14 @@ h1 {
 
 h2 {
   font-size: 1em;
-  background-color: rgba($accent-color-back, 0.5);
+  background-color: var(--accent-color-back);
   font-weight: bolder;
 }
 
 h3 {
   margin-top: 1.4em;
   font-size: 1em;
-  background-color: rgba($accent-color-back, 0.25);
+  background-color: var(--accent-color-back);
   font-weight: bold;
 }
 
@@ -122,7 +149,7 @@ p {
 
 a {
   text-decoration: none;
-  color: $accent-color-front;
+  color: var(--accent-color-front);
 }
 
 ul {
