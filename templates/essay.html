@@ -3,5 +3,8 @@
 <p class="date">{{ page.date }}</p>
 <p><emph>{{ page.description }}</emph></p>
 <nav>{% include "tableOfContents/h1.html" %}</nav>
+<div aria-hidden="true" class="decorative-ascii">
+  ----------------------------------------------------------------------
+</div>
 
 {{ page.content | safe }} {% endblock content %}
