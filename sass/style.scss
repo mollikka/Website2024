@@ -67,15 +67,6 @@ body {
   white-space: nowrap;
 }
 
-.background-ascii {
-  position: fixed;
-  color: rgb(5, 2, 15);
-  left: 0;
-  top: 0;
-  user-select: none; /* Standard */
-  z-index: -1;
-}
-
 h1 {
   font-size: 2em;
   background-color: $accent-color-back;
