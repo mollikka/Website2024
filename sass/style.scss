@@ -105,6 +105,7 @@ h1 {
 }
 
 h2 {
+  margin-top: 1.4em;
   font-size: 1em;
   background-color: var(--accent-color-back);
   font-weight: bolder;
@@ -190,12 +191,19 @@ pre {
 }
 
 .gallery {
+  margin: 0;
   li {
     vertical-align: top;
     display: inline-block;
-    width: 28ch;
+    width: 100%;
+  }
+  @media screen and (min-width: 49em) {
+    margin: 1.4em 0 1.4em 1ch;
+    li {
+      width: 31ch;
+    }
   }
   .thumbnail {
-    width: 90%;
+    width: 100%;
   }
 }
