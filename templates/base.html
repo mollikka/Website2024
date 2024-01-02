@@ -36,24 +36,23 @@
     %}
   >
     <header>
-      <nav class="themeDefault">
-        <a href="../"><<</a>
-        {% for link in menu %}/
-        <a
-          {%
-          if
-          link.theme
-          %}class="{{ link.theme }}"
-          {%
-          else
-          %}class="themeDefault"
-          {%
-          endif
-          %}
-          href="{{ link.url }}"
-          >{{ link.name }}</a
-        >
-        /{% endfor %}
+      <nav class="themeDefault mainmenu">
+        <div><a href="../">&lt;&lt;</a></div>
+        {% for link in menu %}<div>/&nbsp;<a
+            {%
+            if
+            link.theme
+            %}
+            class="{{ link.theme }}"
+            {%
+            else
+            %}class="themeDefault"
+            {%
+            endif
+            %}
+            href="{{ link.url }}"
+            >{{ link.name }}</a
+          >&nbsp;/</div>{% endfor %}
       </nav>
       <div aria-hidden="true" class="decorative-ascii">
         \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\

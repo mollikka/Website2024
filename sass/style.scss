@@ -69,15 +69,13 @@ body {
   margin: auto;
 }
 
-.table-of-contents-top-bottom {
-  display: none;
+.mainmenu {
+  div {
+    display: inline-block;
+  }
 }
 
 @media screen and (min-width: 77em) {
-  .table-of-contents-top-bottom {
-    display: block;
-  }
-
   .table-of-contents {
     display: block;
     position: fixed;
