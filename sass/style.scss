@@ -207,7 +207,14 @@ pre {
       width: 31ch;
     }
   }
-  .thumbnail {
-    width: 100%;
-  }
+}
+
+.thumbnail {
+  width: 100%;
+}
+
+.cv-portrait {
+  width: 12ch;
+  float:right;
+  padding: 0em 1ch 0em 1ch;
 }
