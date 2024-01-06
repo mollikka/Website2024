@@ -20,6 +20,7 @@ menu_items = [
     {name = "artwork", url = "/artwork", theme="themeBlue"},
     {name = "music", url = "/music"},
     {name = "design", url = "/design", theme="themeRed"},
+    {name = "photos", url = "/photos"},
     {name = "text", url = "/text"},
     {name = "tail", url = "/tail"},
 ]
