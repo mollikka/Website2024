@@ -218,3 +218,18 @@ pre {
   float:right;
   padding: 0em 1ch 0em 1ch;
 }
+
+.comment {
+  border-width: 0em 0ch 0em 1ch;
+  border-style: double;
+  border-color: var(--accent-color-back);
+  min-height: 4.2em;
+  .comment-avatar {
+    float:left;
+    width: 6ch;
+  }
+  .comment-text {
+    float:left;
+    padding: 0em 0ch 0em 1ch;
+  }
+}
