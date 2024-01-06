@@ -1,3 +1,7 @@
 +++
 title = "Lauri Tervonen"
 +++
+
+{{
+    socialLinks()
+}}

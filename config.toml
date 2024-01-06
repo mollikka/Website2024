@@ -23,3 +23,13 @@ menu_items = [
     {name = "text", url = "/text"},
     {name = "tail", url = "/tail"},
 ]
+
+social_links = [
+    {name = "Flickr", url = "https://www.flickr.com/photos/mollikka/"},
+    {name = "Tumblr", url = "https://moellikkae.tumblr.com/"},
+    {name = "GitHub", url = "https://github.com/mollikka/"},
+    {name = "SoundCloud", url = "https://soundcloud.com/lauri-tervonen"},
+    {name = "Spoonflower", url = "https://www.spoonflower.com/profiles/moellikkae/"},
+    {name = "Thingiverse", url = "https://www.thingiverse.com/stuffperson/"},
+    {name = "Email", url = "lauri@mollikka.net"},
+]
