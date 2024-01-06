@@ -225,11 +225,11 @@ pre {
   border-color: var(--accent-color-back);
   min-height: 4.2em;
   .comment-avatar {
-    float:left;
+    float: left;
     width: 6ch;
   }
   .comment-text {
-    float:left;
+    overflow: auto;
     padding: 0em 0ch 0em 1ch;
   }
 }
