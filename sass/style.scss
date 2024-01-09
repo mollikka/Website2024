@@ -227,9 +227,22 @@ pre {
   .comment-avatar {
     float: left;
     width: 6ch;
+    height: 4.2em;
+    object-fit: cover;
   }
   .comment-text {
     overflow: auto;
     padding: 0em 0ch 0em 1ch;
+    margin: 0;
+    p {
+      margin-top: 0em;
+    }
   }
+}
+
+blockquote {
+  border-style: double;
+  border-width: 0em 0ch 0em 1ch;
+  padding: 0em 1ch 0em 1ch;
+  font-style: italic;
 }
