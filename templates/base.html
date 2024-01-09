@@ -1,4 +1,9 @@
 {% set menu = config.extra.menu_items -%}
+
+{% if page %}
+{% set sectionName = page.ancestors | last %}
+{% set section = get_section(path=sectionName) %}
+{% endif %}
 <!DOCTYPE html>
 <!--    #############    -->
 <!--    #           #    -->
@@ -21,35 +26,24 @@
   </head>
 
   <body
-    {%
-    if
-    section.extra.theme
-    %}class="{{ section.extra.theme }}"
-    {%
-    else
-    %}class="themeDefault"
-    {%
-    endif
-    %}
+    {% if section.extra.theme %}
+      class="{{ section.extra.theme }}"
+    {% else %}
+      class="themeDefault"
+    {% endif %}
   >
     <header>
       <nav class="themeDefault mainmenu">
         <div><a href="../">&lt;&lt;</a></div>
         {% for link in menu %}<div>/&nbsp;<a
-            {%
-            if
-            link.theme
-            %}
-            class="{{ link.theme }}"
-            {%
-            else
-            %}class="themeDefault"
-            {%
-            endif
-            %}
+            {% if link.theme %}
+              class="{{ link.theme }}"
+            {% else %}
+              class="themeDefault"
+            {% endif %}
             href="{{ link.url }}"
-            >{{ link.name }}</a
-          >&nbsp;/</div>{% endfor %}
+            >{{ link.name }}</a>&nbsp;/</div>
+        {% endfor %}
       </nav>
       <div aria-hidden="true" class="decorative-ascii">
         \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
