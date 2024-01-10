@@ -95,7 +95,9 @@ Pestauksessa keskustellaan yhdessä tavoitteista ja pestissä saatavasta tuesta.
 {{
     figure(
         img="3A-pestilomake.jpg"
-        description="Lippukunnanjohtajan pestilomake")
+        description="Lippukunnanjohtajan pestilomake"
+        small=true
+    )
 }}
 
 Järjestäytymiskokouksessa vahvistetetaan vastuunjako ja sovitaan hallituksen kokouskäytännöistä. Kun tehtävien jakamisesta on jo sovittu, vahvistaminen käy kokousjärjestyksessä nopeasti.
