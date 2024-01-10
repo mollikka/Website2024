@@ -13,7 +13,7 @@ Teksti julkaistu myös [Muuttolintujen nettisivuilla](https://muuttolinnut.fi/ha
 {% end %}
 
 
-Käsittelemme hallitusta reilun vuoden kestävänä projektina, joka alkaa järjestäytymis­kokouksella ja päättyy seuraavan vuoden kevät­kokoukseen, kun on autettu seuraavan vuoden hallituksen käyntiin ja saatu vastuu­vapaus. Kuvailen tässä toimintamallin, jota käytimme järjestäytymiskokouksessa vuonna 2024.
+Käsittelemme hallitusta reilun vuoden kestävänä projektina, joka alkaa järjestäytymis­kokouksella ja päättyy seuraavan vuoden kevät­kokoukseen, kun seuraavan vuoden hallitus on autettu käyntiin ja saatu vastuu­vapaus. Kuvailen tässä toimintamallin, jota käytimme järjestäytymiskokouksessa vuonna 2024.
 
 ## Mitä hallituksen järjestäytymiskokouksessa tehdään?
 
@@ -71,7 +71,7 @@ Toisessa vaiheessa sovitaan, miten vastuualueet jaetaan hallituksen kesken.
 
 Alustavaa pestisuunnittelua ja kiinnostuksen kartoitusta kuuluu tehdä toki jo syksyllä ennen hallituksen valitsemista, jottei hallituksen kokoonpanosta tule epätasapainoinen. Kauden avauksessa kartoitetaan kaikki, mitä lippukunnassa pitää vuoden aikana huomioida, ja tehtäville sovitaan vastuuhenkilöt.
 
-Ennen kokousta johtokolmikko kirjoittaa hallituksen jäsenten nimet lapuille ja listaa lapuille kaikki tiedossa olevat pestit. Valmistelu on tärkeää siksi, että kokouksen toinen vaihe on pisin ja raskain. Kokouksen aikana pestilappuja voi tulla lisää, mutta on hyvä, ettei ilmiselvimpiä juttuja tarvitse yrittää muistaa kesken kokousta. Esivalmisteluna ei yhdistetä pestilappuja henkilöihin, vaikka olisikin jo tiedossa, kenen vastuulle tehtävä jää.
+Ennen kokousta johtokolmikko kirjoittaa hallituksen jäsenten nimet lapuille ja listaa lapuille kaikki tiedossa olevat pestit. Valmistelu on tärkeää siksi, että kokouksen toinen vaihe on pisin ja raskain. Kokouksen aikana pestilappuja voi tulla lisää, mutta on hyvä, ettei ilmiselvimpiä juttuja tarvitse yrittää muistaa kesken kokousta. Esivalmistelussa ei yhdistetä pestilappuja henkilöihin, vaikka olisikin jo tiedossa, kenen vastuulle tehtävä jää.
 
 Tehtävän aikana jokainen lappu käydään yhdessä läpi. Voi olla helpointa aloittaa niistä lapuista, jotka tiedetään jo varmasti tai joille on hyvä peruste. Meille oli esimerkiksi selvää, kenestä tulee rahastonhoitaja ja että lippukunnanjohtajan kannattaa hoitaa alueyhteistyötä, koska lippukunnan ulkopuolelta ollaan usein yhteydessä juuri lippukunnanjohtajaan.
 
