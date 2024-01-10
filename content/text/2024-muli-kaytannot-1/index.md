@@ -87,7 +87,18 @@ Jos lapulle ei kerta kaikkiaan löydy henkilöä tai ratkaisua, se jätetään s
         description="3. Järjestäytyminen")
 }}
 
-Kolmannessa ja viimeisessä vaiheessa pidetään hallituksen virallinen kokous eli järjestäytymiskokous. Järjestäytymiskokouksessa vahvistetetaan vastuunjako ja sovitaan hallituksen kokouskäytännöistä. Kun tehtävien jakamisesta on jo sovittu, vahvistaminen käy kokousjärjestyksessä nopeasti.
+Kolmannessa ja viimeisessä vaiheessa pestataan hallitus ja pidetään hallituksen virallinen kokous eli järjestäytymiskokous. 
+
+Pestauksessa keskustellaan yhdessä tavoitteista ja pestissä saatavasta tuesta. Kukin hallituksen jäsen täyttää samalla oman pestikuvauksensa esimerkiksi pestilomakkeelle ja laittaa sen jakoon hallituksen tiedotuskanavaan.
+
+
+{{
+    figure(
+        img="3A-pestilomake.jpg"
+        description="Lippukunnanjohtajan pestilomake")
+}}
+
+Järjestäytymiskokouksessa vahvistetetaan vastuunjako ja sovitaan hallituksen kokouskäytännöistä. Kun tehtävien jakamisesta on jo sovittu, vahvistaminen käy kokousjärjestyksessä nopeasti.
 
 Hallituksen kokouksen 01/2024 asialistalla käsiteltiin seuraavat asiat:
 
