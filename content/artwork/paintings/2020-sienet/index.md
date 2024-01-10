@@ -13,6 +13,6 @@ This was my first oil painting ever. It’s technically a still life.
 {{
     figure(
         img="process-1.jpg"
-        description="Process photo"
-        hidetext=true)
+        description="Progress photo"
+    )
 }}
