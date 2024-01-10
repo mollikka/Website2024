@@ -2,7 +2,7 @@
 <h1>{{ page.title }} ({{ page.year }})</h1>
 <p class="date">{{ page.date }}</p>
 
-<img class="artwork" src="{{ page.extra.image }}" />
+<a href="{{ page.extra.image }}"><img class="artwork" src="{{ page.extra.image }}" /></a>
 
 <p>{{ page.description }}</p>
 {{ page.content | safe }} {% endblock content %}
