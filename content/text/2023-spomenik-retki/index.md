@@ -61,7 +61,7 @@ Ensimmäinen muistomerkki löytyi Makarskasta kaupungin keskeltä.
         description="Pikkukatu Makarskassa")
 }}
 
-Makarska on kaunis turistikaupunki hotelleineen ja ravintoloineen.
+Makarska on kaunis turistikaupunki hotelleineen ja ravinto&shy;loineen.
 
 {{
     figure(
@@ -332,7 +332,7 @@ Paikalliset ohikulkijat neuvoivat 24/7-huoltoaseman seuraavassa kylässä, ja aj
     )
 }}
 
-Jotenkin viimeiset bensahuurut riittivät Sanski Mostin huoltoasemalle asti. Olimme kulkeneet koko päivän Bosnian maaseudulla, ja tuntien ajon jälkeen huoltoaseman neonvalot näyttivät aivan toiselta maailmalta kuin pimeät vuoristotiet – kuin avaruusalus olisi laskeutunut pelastamaan meidät.
+Jotenkin viimeiset bensahuurut riittivät Sanski Mostin huolto&shy;asemalle asti. Olimme kulkeneet koko päivän Bosnian maaseudulla, ja tuntien ajon jälkeen huoltoaseman neonvalot näyttivät aivan toiselta maailmalta kuin pimeät vuoristotiet – kuin avaruusalus olisi laskeutunut pelastamaan meidät.
 
 Kotimatka pidentyi merkittävästi, mutta selvisimme! Olimme puoliltaöin Bihaćissa.
 

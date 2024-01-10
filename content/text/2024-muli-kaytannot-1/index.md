@@ -56,7 +56,7 @@ Tilannekuvaan kuuluvat jatkuvat ja avoimet pestit, erityisesti viikkoryhmien ohj
         description="Muuttolintujen tapahtumakalenteri eli mulinteri")
 }}
 
-Tapahtumakalenterin voi käydä yhdessä läpi lukemalla suoraan toiminta­suunnitelmaa, tai johtokolmikko voi listata tärkeimmät kohdat. Kannattaa käsitellä ainakin lippukunnan retket ja leirit, vanhat ja alkavat viikkoryhmät, avustushakemukset ja yhdistyksen kokoukset. Jos kaudelle on muita erityisiä kehitystavoitteita, käydään nekin läpi. Varmistetaan myös, että kaikki tietävät, mitä kevätkokoukseen ja syyskokoukseen tarvitaan. Kevätkokoukseen hallitus valmistelee toimintakertomuksen ja tilinpäätöksen, syyskokoukseen toimintasuunnitelman ja talousarvion.
+Tapahtumakalenterin voi käydä yhdessä läpi lukemalla suoraan toiminta­suunnitelmaa, tai johtokolmikko voi listata tärkeimmät kohdat. Kannattaa käsitellä ainakin lippukunnan retket ja leirit, vanhat ja alkavat viikkoryhmät, avustushakemukset ja yhdistyksen kokoukset. Jos kaudelle on muita erityisiä kehitystavoitteita, käydään nekin läpi. Varmistetaan myös, että kaikki tietävät, mitä kevätkokoukseen ja syyskokoukseen tarvitaan. Kevätkokoukseen hallitus valmistelee toiminta&shy;kertomuksen ja tilinpäätöksen, syyskokoukseen toiminta&shy;suunnitelman ja talousarvion.
 
 
 ## 2. Vastuunjako
