@@ -4,7 +4,7 @@ title = "Lauri Tervonen"
 
 {{
     figure(
-        img="holistic-logo.png"
+        img="/logo/holistic.png"
         description="Holistic Development Agency logo"
         hidetext=true
         small=true)
