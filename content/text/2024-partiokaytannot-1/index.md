@@ -1,5 +1,5 @@
 +++
-title = "Muli-käytäntöjä I: Hallituskauden aloitus"
+title = "Partiokäytäntöjä I: Hallituskauden aloitus"
 description = "Yhdistyksen hallituskausi on projekti, johon kuuluu tavoitteita ja vastuiden jakoa"
 date = "2024-01-09"
 [extra]
