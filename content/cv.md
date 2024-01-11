@@ -4,7 +4,7 @@ template = "essay.html"
 description = "Lauri Tervonen, work and education history"
 +++
 
-<img src="/image-id/2022-id.jpg" class="cv-portrait" alttext="Lauri Tervonen">
+<img src="/me/2022-id.jpg" class="cv-portrait" alttext="Lauri Tervonen">
 Lauri is a software developer with a solid computer science background and 5+ years of experience developing and maintaining software projects. He solves technical and social problems from optimizing relational database queries to driving systemic change in long-running development processes.
 
 ## Work Experience
