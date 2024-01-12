@@ -2,8 +2,8 @@
 title = "Runoja vuodenajoista"
 description = "Kadotettuja ja löydettyjä runoja, jotka on päivätty vuodelle 2014"
 date = "2014-12-31"
-[extra]
-language = "Suomi"
+[taxonomies]
+Language=["Suomi"]
 +++
 
 ## Lumen pinta

@@ -2,8 +2,8 @@
 title = "Partiokäytäntöjä I: Hallituskauden aloitus"
 description = "Yhdistyksen hallituskausi on projekti, johon kuuluu tavoitteita ja vastuiden jakoa"
 date = "2024-01-09"
-[extra]
-language = "Suomi"
+[taxonomies]
+Language=["Suomi"]
 +++
 
 Muuttolinnut RY on espoolainen partio&shy;lippukunta, jota johtaa johto&shy;kolmikko. Johto&shy;kolmikko on osa lippukunnan hallitusta.
