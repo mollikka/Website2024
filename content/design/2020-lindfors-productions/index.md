@@ -2,6 +2,8 @@
 title = "Lindfors Productions Website"
 description = "Custom themed WordPress site"
 date = "2020-10-21"
+[taxonomies]
+tags=["web"]
 [extra]
 image = "main.png"
 +++

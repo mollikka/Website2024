@@ -2,6 +2,8 @@
 title = "Varistokraatit"
 description = "Scout patch"
 date = "2023-01-27"
+[taxonomies]
+tags=["scouts"]
 [extra]
 image = "main.png"
 +++

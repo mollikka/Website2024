@@ -2,6 +2,8 @@
 title = "Atopia"
 description = "Album Cover Art and Graphic Design"
 date = "2020-08-21"
+[taxonomies]
+tags=["albumart"]
 [extra]
 image = "main.png"
 +++

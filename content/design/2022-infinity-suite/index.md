@@ -2,6 +2,8 @@
 title = "The Infinity Suite"
 description = "EP Cover Art"
 date = "2022-08-05"
+[taxonomies]
+tags=["albumart"]
 [extra]
 image = "main.png"
 +++

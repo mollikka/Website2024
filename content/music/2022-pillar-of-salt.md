@@ -1,6 +1,8 @@
 +++
 title = "Pillar of Salt"
 date = 2022-07-31
+[taxonomies]
+tags=["albumart"]
 [extra]
 soundcloud = "playlists/1474033255"
 +++

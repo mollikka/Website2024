@@ -2,6 +2,8 @@
 title = "Byggis"
 description = "Scout patch"
 date = "2019-06-14"
+[taxonomies]
+tags=["scouts"]
 [extra]
 image = "main.png"
 +++
