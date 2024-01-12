@@ -1,7 +1,7 @@
 {% extends "base.html" %} {% block content %}
 <h1>{{ page.title }} ({{ page.year }})</h1>
 <p class="date">{{ page.date }}</p>
-
+<nav>{% include "include/tags.html" %}</nav>
 <iframe
   width="100%"
   height="300"
