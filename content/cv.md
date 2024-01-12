@@ -1,6 +1,6 @@
 +++
 title = "CV"
-template = "essay.html"
+template = "single/essay.html"
 description = "Lauri Tervonen, work and education history"
 +++
 

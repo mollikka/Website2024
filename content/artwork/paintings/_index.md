@@ -1,8 +1,8 @@
 +++
 title = "Paintings"
 sort_by = "date"
-template = "catalog/gallery.html"
-page_template = "artwork.html"
+template = "list/gallery.html"
+page_template = "single/artwork.html"
 weight = 0
 [extra]
 theme = "themeBlue"
