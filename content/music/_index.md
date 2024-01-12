@@ -1,6 +1,6 @@
 +++
 title = "Music"
 sort_by = "date"
-template = "catalog/simple.html"
+template = "catalog/blog.html"
 page_template = "musicplayer.html"
 +++
