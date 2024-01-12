@@ -4,6 +4,7 @@ description = "Seikkailu Kroatiassa ja Bosnia & Hertsegovinassa syyskuussa 2023"
 date = "2023-12-24"
 [taxonomies]
 Language=["Suomi"]
+tags=["adventure"]
 +++
 
 Syksyllä 2023 tein kahden ystäväni kanssa retken Kroatian ja Bosnia & Hertsegovinan halki.

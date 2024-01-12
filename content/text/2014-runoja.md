@@ -4,6 +4,7 @@ description = "Kadotettuja ja löydettyjä runoja, jotka on päivätty vuodelle 
 date = "2014-12-31"
 [taxonomies]
 Language=["Suomi"]
+tags=["art"]
 +++
 
 ## Lumen pinta
