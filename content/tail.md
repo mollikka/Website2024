@@ -25,13 +25,13 @@ title = "Back cover"
 {{
     multisizeLogoZoo(
         img="/me/2022-id.jpg"
-        description="Möllikkä logo, blue variant")
+        description="Reaktor consultant portrait")
 }}
 ## Old pictures
 {{
     figure(
-        img="/me/1995-macs.jpg"
-        description="1995: Delivering Macs"
+        img="/me/2003-laptop.jpg"
+        description="2003: Using a laptop"
     )
 }}
 {{
@@ -42,7 +42,7 @@ title = "Back cover"
 }}
 {{
     figure(
-        img="/me/2003-laptop.jpg"
-        description="2003: Using a laptop"
+        img="/me/1995-macs.jpg"
+        description="1995: Delivering Macs"
     )
 }}
