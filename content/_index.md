@@ -11,9 +11,9 @@ Welcome to my little garden of creations.
 
 ## Current highlights
 
-- [Valas](@/artwork/paintings/2023-valas/index.md)
-- [Varis](@/artwork/paintings/2023-valas/index.md)
-- [Spomenik-retki](@/text/2023-spomenik-retki/index.md)
+- [Valas (2023)](@/artwork/paintings/2023-valas/index.md)
+- [Varis (2022)](@/artwork/paintings/2023-valas/index.md)
+- [Spomenik-retki (2023)](@/text/2023-spomenik-retki/index.md)
 
 ## Social links
 
