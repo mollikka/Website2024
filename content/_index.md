@@ -1,6 +1,5 @@
 +++
 +++
-# Lauri Tervonen
 
 I am Lauri, a.k.a. Möllikkä [møl:ik:æ].
 
