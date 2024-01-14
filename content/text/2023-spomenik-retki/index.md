@@ -451,6 +451,13 @@ Monumentti on ollut hylättynä ja luonnon armoilla 90-luvulta lähtien. Suuri o
 {{
     figure(
         img="day3/11.jpg"
+        description="Tästä seinästä on vain luuranko jäljellä"
+    )
+}}
+
+{{
+    figure(
+        img="day3/12.jpg"
         description="Reikä seinässä"
     )
 }}
@@ -459,7 +466,7 @@ Osa seinistä on täysin avonaisia ja suojaamattomia, joten tuuli puhaltaa suora
 
 {{
     figure(
-        img="day3/12.jpg"
+        img="day3/13.jpg"
         description="Tämä sähkökaappi ei ole enää käytössä."
     )
 }}
@@ -468,21 +475,21 @@ Ylimmässä kerroksessa kuului sähkölaitteiden huminaa. Miten täällä voi ol
 
 {{
     figure(
-        img="day3/13.jpg"
+        img="day3/14.jpg"
         description="Petrova Goran monumentin katolta näkee kauas."
     )
 }}
 
 {{
     figure(
-        img="day3/14.jpg"
+        img="day3/15.jpg"
         description="Monumentin päällä kasvaa pensaita."
     )
 }}
 
 {{
     figure(
-        img="day3/15.jpg"
+        img="day3/16.jpg"
         description="Petrova Goran monumentin vierailukeskus"
     )
 }}
@@ -491,7 +498,7 @@ Aurinko oli laskemassa, ja alkoi jo väsyttää. Ajoimme illaksi Zagrebiin lepä
 
 {{
     figure(
-        img="day3/16.jpg"
+        img="day3/17.jpg"
         description="Auringonlasku moottoritiellä matkalla Zagrebiin"
     )
 }}
