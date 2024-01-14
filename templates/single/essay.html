@@ -1,4 +1,6 @@
-{% extends "base.html" %} {% block content %}
+{% extends "page.html" %}
+
+{% block content %}
 <h1>{{ page.title }}{% if page.year %} ({{ page.year }}){% endif %}</h1>
 <p class="date">{{ page.date }}</p>
 <p><emph>{{ page.description }}</emph></p>

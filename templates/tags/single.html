@@ -1,4 +1,11 @@
-{% extends "base.html" %} {% block content %}
+{% extends "base.html" %}
+
+{% block metadata %}
+<title>Lauri Tervonen - Tag: #{{ term.name }}</title>
+<meta name="description" content="My content tagged #{{ term.name }}">
+{% endblock %}
+
+{% block content %}
 <h1 class="title">Tag: #{{ term.name }}</h1>
 <ul>
   {% for page in term.pages %}

@@ -1,4 +1,6 @@
-{% extends "base.html" %} {% block content %}
+{% extends "page.html" %} 
+
+{% block content %}
 <h1>{{ page.title }} ({{ page.year }})</h1>
 <p class="date">{{ page.date }}</p>
 <nav>{% include "include/tags.html" %}</nav>

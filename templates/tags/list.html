@@ -1,4 +1,10 @@
-{% extends "base.html" %} {% block content %}
+{% extends "base.html" %} 
+
+{% block metadata %}
+<title>Lauri Tervonen - {{ taxonomy.name | title }}</title>
+{% endblock %}
+
+{% block content %}
 <h1>{{ taxonomy.name | title }}</h1>
 <ul>
     {% for term in terms %}

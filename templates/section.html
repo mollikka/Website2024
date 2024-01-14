@@ -1,4 +1,10 @@
-{% extends "base.html" %} 
+{% extends "base.html" %}
+
+{% block metadata %}
+<title>Lauri Tervonen - {{ section.title }}</title>
+<meta name="description" content="List of my {{ section.title | lower }}">
+{% endblock %}
+
 {% block content %} 
 <h1>{{ section.title | safe }}</h1>
 {{ section.content | safe }} {%

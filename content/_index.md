@@ -1,4 +1,6 @@
 +++
+title="Lauri Tervonen"
+description="Welcome to my little garden of creations."
 +++
 
 I am Lauri, a.k.a. Möllikkä [møl:ik:æ].
