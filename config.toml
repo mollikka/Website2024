@@ -27,7 +27,6 @@ menu_items = [
     {name = "design", url = "/design", theme="themeRed"},
     {name = "photos", url = "/photos"},
     {name = "text", url = "/text"},
-    {name = "tail", url = "/tail"},
 ]
 
 social_links = [
