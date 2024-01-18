@@ -2,6 +2,8 @@
 title = "LED Christmas Tree"
 description = "Addressable LED strip configured to function as a 3D display"
 date = "2017-12-25"
+[taxonomies]
+tags = ["code"]
 [extra]
 image = "main.png"
 +++

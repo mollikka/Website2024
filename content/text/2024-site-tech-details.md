@@ -4,7 +4,7 @@ description = "Static site generated using Zola"
 date = "2024-01-11"
 [taxonomies]
 Language=["English"]
-tags=["tech"]
+tags=["code"]
 +++
 
 This is a static html website generated using [Zola](https://www.getzola.org/). Local development has no dependencies other than Zola and a browser. The source code for the site is on [GitHub](https://github.com/mollikka/Website2024).
