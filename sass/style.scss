@@ -226,10 +226,11 @@ pre {
   border-color: var(--accent-color-back);
   min-height: 4.2em;
   .comment-avatar {
+    padding: 0em 0ch 0em 1ch;
     float: left;
     width: 6ch;
     height: 4.2em;
-    object-fit: cover;
+    object-fit: contain;
   }
   .comment-text {
     overflow: auto;
