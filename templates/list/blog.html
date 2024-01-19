@@ -11,7 +11,7 @@
   {% for page in posts %} 
   {% set languages = page | get(key="taxonomies", default=[]) | get(key="Language", default=[]) | sort -%}
   <li>
-    <a href="{{ page.permalink | safe }}">{{ page.date }} {% for term in languages %}{% if term == "Suomi" %}🇫🇮{% endif %}{% if term == "English" %}🇺🇸{% endif %}{% endfor %} {{ page.title }}</a>
+    <a href="{{ page.permalink | safe }}">{{ page.date }} {% for term in languages %}{% if term == "Suomi" %}<span class="emoji">🇫🇮</span>{% endif %}{% if term == "English" %}<span class="emoji">🇺🇸</span>{% endif %}{% endfor %} {{ page.title }}</a>
     <p>{{ page.description }}</p>
   </li>
   {% endfor %}
