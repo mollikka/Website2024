@@ -8,4 +8,16 @@
 {% block content %} 
 <h1>{{ section.title }}</h1>
 {{ section.content | safe }} 
-{% endblock content %}
+
+{% set featured = get_taxonomy_term(kind="tags", term="featured") %}
+
+<h2><a href="/tags/featured">Featured</a></h2>
+<ul>
+{% for page in featured.pages %}
+<li>
+    <a href="{{ page.permalink | safe }}">{{ page.title }} ({{ page.year }})</a>
+</li>
+{% endfor %}
+</ul>
+
+{% endblock %}

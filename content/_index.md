@@ -11,12 +11,6 @@ Currently I am working full-time as a software developer while doing art and des
 
 Welcome to my little garden of creations.
 
-## Current highlights
-
-- [Valas (2023)](@/artwork/paintings/2023-valas/index.md)
-- [Varis (2022)](@/artwork/paintings/2023-valas/index.md)
-- [Spomenik-retki (2023)](@/text/2023-spomenik-retki/index.md)
-
 ## Social links
 
 {{
