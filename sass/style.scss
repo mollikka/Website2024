@@ -1,14 +1,12 @@
-$background-color: rgb(35, 35, 35);
-
-$background-gray: rgb(35, 35, 35);
+$background-gray: #232323;
 $accent-back-gray: #505050;
 $accent-front-gray: #aaaaaa;
 
-$background-blue: rgb(36, 30, 40);
+$background-blue: #281e24;
 $accent-back-blue: #2163a1;
 $accent-front-blue: #74c0ec;
 
-$background-red: rgb(30, 30, 40);
+$background-red: #1e1e28;
 $accent-back-red: #940a4f;
 $accent-front-red: #f97bba;
 
@@ -144,6 +142,12 @@ figure {
     font-style: italic;
     text-align: left;
   }
+}
+
+.sideBySideImages {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .emoji {

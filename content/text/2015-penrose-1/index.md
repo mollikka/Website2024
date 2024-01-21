@@ -1,10 +1,10 @@
 +++
-title = "Penrose Tiling Adventures"
+title = "Penrose Tiling Adventures, part 1"
 description = "Filling an infinite plane with aperiodic stuff using simple rules"
 date = "2015-03-19"
 [taxonomies]
 Language=["English"]
-tags=["math", "code"]
+tags = ["math", "code"]
 +++
 
 A [tiling](https://en.wikipedia.org/wiki/Tessellation) is a plane that consists of infinite copies of a finite set of shapes called prototiles.
@@ -112,7 +112,6 @@ The code to implement the tiling is actually not very complicated at all.
 The program written in Python is available as a
 [Github project](https://github.com/mollikka/Penrose).
 
-With the program it's much easier to design a large pattern.
 Long story short, now the only limit to my tiling operation is floor space!
 
 {{
@@ -122,6 +121,7 @@ Long story short, now the only limit to my tiling operation is floor space!
     )
 }}
 
+In [part 2](@/text/2015-penrose-2/index.md) I will leave the physical tiles behind and look deeper into the program. I will also find some interesting patterns while playing with the code.
 
 {% comment(date='2015-03-24') %}
 *Today I gave a short presentation on my Penrose Tiling Adventures on the Aalto University course
