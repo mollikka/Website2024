@@ -60,7 +60,7 @@ could make nice textiles.
 {{
         multiFigure(
                 images=["penrose_kite_1.png","penrose_dart_1.png"],
-                description="Kite and dart texture input"
+                description="Kite and dart input textures"
         )
 }}
 
@@ -74,7 +74,7 @@ could make nice textiles.
 {{
         multiFigure(
                 images=["penrose_kite_2.png","penrose_dart_2.png"],
-                description="Kite and dart texture input"
+                description="Kite and dart input textures"
         )
 }}
 
@@ -88,7 +88,7 @@ could make nice textiles.
 {{
         multiFigure(
                 images=["penrose_kite_3.png","penrose_dart_3.png"],
-                description="Kite and dart texture input"
+                description="Kite and dart input textures"
         )
 }}
 
@@ -102,7 +102,7 @@ could make nice textiles.
 {{
         multiFigure(
                 images=["penrose_kite_4.png","penrose_dart_4.png"],
-                description="Kite and dart texture input"
+                description="Kite and dart input textures"
         )
 }}
 
@@ -116,7 +116,7 @@ could make nice textiles.
 {{
         multiFigure(
                 images=["penrose_kite_7.png","penrose_dart_7.png"],
-                description="Kite and dart texture input"
+                description="Kite and dart input textures"
         )
 }}
 
