@@ -5,6 +5,7 @@ date = "2015-03-19"
 [taxonomies]
 Language=["English"]
 tags = ["math", "code"]
+series = ["penrose_tiling_adventures"]
 +++
 
 A [tiling](https://en.wikipedia.org/wiki/Tessellation) is a plane that consists of infinite copies of a finite set of shapes called prototiles.

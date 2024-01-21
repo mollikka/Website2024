@@ -1,12 +1,11 @@
 {% extends "base.html" %}
 
 {% block metadata %}
-<title>Lauri Tervonen - Tag: #{{ term.name }}</title>
-<meta name="description" content="My content tagged #{{ term.name }}">
+<title>Lauri Tervonen - {{ taxonomy.name | title }}: #{{ term.name }}</title>
 {% endblock %}
 
 {% block content %}
-<h1 class="title">Tag: #{{ term.name }}</h1>
+<h1 class="title">{{ taxonomy.name | title }}: {{ term.name | title }}</h1>
 <ul>
   {% for page in term.pages %}
   <li>

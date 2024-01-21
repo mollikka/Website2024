@@ -5,6 +5,7 @@ date = "2015-05-10"
 [taxonomies]
 Language=["English"]
 tags = ["math","code"]
+series = ["penrose_tiling_adventures"]
 +++
 
 In [part 1](@/text/2015-penrose-1/index.md) of Penrose Tiling Adventures I realized that planning a Penrose
