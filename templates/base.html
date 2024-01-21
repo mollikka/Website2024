@@ -1,9 +1,16 @@
 {% set menu = config.extra.menu_items -%}
 
 {% if page %}
-{% set sectionName = page.ancestors | last %}
-{% set section = get_section(path=sectionName) %}
+  {% set sectionName = page.ancestors | last %}
+  {% set section = get_section(path=sectionName) %}
 {% endif %}
+
+{% if section and section.extra.theme %}
+  {% set theme = section.extra.theme %}
+{% else %}
+  {% set theme = "themeGreen" %}
+{% endif %}
+
 <!DOCTYPE html>
 <!--    #############    -->
 <!--    #           #    -->
@@ -22,10 +29,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     {% block metadata %} {% endblock %}
     <link rel="stylesheet" href="/style.css">
-    {% if section.extra.theme %}
-      <link rel="icon" type="image/x-icon" href="/favicon-{{ section.extra.theme }}.ico">
-    {% else %}
-      <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/x-icon" sizes="16x16" href="/favicon-{{ theme }}.ico">
+    {% if theme == "themeGreen" %}
+      <meta name="theme-color" media="(prefers-color-scheme: light)" content="#25533b">
+      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#232323">
+    {% endif %}
+    {% if theme == "themeBlue" %}
+      <meta name="theme-color" media="(prefers-color-scheme: light)" content="#2163a1">
+      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#281e24">
+    {% endif %}
+    {% if theme == "themeRed" %}
+      <meta name="theme-color" media="(prefers-color-scheme: light)" content="#940a4f">
+      <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1e1e28">
     {% endif %}
   </head>
 
