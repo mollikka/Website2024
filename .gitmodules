@@ -1,0 +1,3 @@
+[submodule "themes/MollikkaStuffMonospaceZolaTheme"]
+	path = themes/MollikkaStuffMonospaceZolaTheme
+	url = git@github.com:mollikka/MollikkaStuffMonospaceZolaTheme.git
