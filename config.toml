@@ -26,6 +26,7 @@ highlight_code = true
 
 [extra]
 languages = ["English", "Suomi"]
+author_portrait = "/images/me/2022-id.jpg"
 
 menu_items = [
     {name = "head", url = "/"},
