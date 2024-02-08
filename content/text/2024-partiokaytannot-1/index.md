@@ -5,6 +5,7 @@ date = "2024-01-09"
 [taxonomies]
 Language=["Suomi"]
 tags=["scouts"]
+series = ["partiokaytantoja"]
 +++
 
 Muuttolinnut RY on espoolainen partio&shy;lippukunta, jota johtaa johto&shy;kolmikko. Johto&shy;kolmikko on osa lippukunnan hallitusta.
