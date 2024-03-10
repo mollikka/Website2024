@@ -1,6 +1,7 @@
 +++
-title = "Music"
+title = "Extras"
 sort_by = "date"
-template = "list/galleryWithSubsections.html"
+template = "list/gallery.html"
 page_template = "single/artwork.html"
+weight = 4
 +++
