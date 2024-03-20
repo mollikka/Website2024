@@ -45,8 +45,8 @@ image = "blueprint.png"
 }}
 {{
         figure(
-                img="flowers.png",
-                description="Flowers",
+                img="petunia.png",
+                description="Petunia",
                 hidetext=true
         )
 }}
@@ -54,7 +54,6 @@ image = "blueprint.png"
         figure(
                 img="surface-32.png",
                 description="Surface 32",
-                class="full-width",
                 hidetext=true
         )
 }}
