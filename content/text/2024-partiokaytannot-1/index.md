@@ -98,7 +98,7 @@ Pestauksessa keskustellaan yhdessä tavoitteista ja pestissä saatavasta tuesta.
     figure(
         img="3A-pestilomake.jpg"
         description="Lippukunnanjohtajan pestilomake"
-        small=true
+        class="small-figure"
     )
 }}
 
