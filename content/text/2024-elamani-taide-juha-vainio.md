@@ -1,11 +1,10 @@
 +++
-title = "Elämäni taide I: Juha Vainio"
-description = "Legendaarinen suomalainen laulaja-lauluntekijä"
+title = "Sellaista elämä on - Juha Vainion paras biisi"
+description = "Rehellinen laulu vastoinkäymisistä"
 date = "2024-02-08"
 [taxonomies]
 Language=["Suomi"]
 tags=["art"]
-series = ["art_of_my_life"]
 +++
 
 Laulaja-lauluntekijä Juha Vainion tuotanto on humoristista, viisasta ja ennen kaikkea rehellistä ja todenmukaista.
