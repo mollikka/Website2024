@@ -2,6 +2,8 @@
 title = "Game cart holder"
 description = "Parametric 3D print that displays your game carts and keeps the connectors clean"
 date = "2016-12-18"
+[taxonomies]
+tags=["3dprinting"]
 [extra]
 image = "1.jpg"
 +++

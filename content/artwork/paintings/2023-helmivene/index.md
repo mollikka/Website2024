@@ -2,6 +2,8 @@
 title = "Helmivene"
 description = "Oil on canvas. 46 cm ⨯ 38 cm. "
 date = "2023-01-23"
+[taxonomies]
+tags = ["underwater","nature"]
 [extra]
 image = "main.jpg"
 +++

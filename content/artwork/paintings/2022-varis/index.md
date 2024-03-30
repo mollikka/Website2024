@@ -3,7 +3,7 @@ title = "Varis"
 description = "Oil on canvas. 54 cm ⨯ 65 cm."
 date = "2022-10-24"
 [taxonomies]
-tags=["featured"]
+tags = ["bird","nature","featured"]
 [extra]
 image = "main.jpg"
 +++

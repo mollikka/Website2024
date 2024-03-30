@@ -2,6 +2,8 @@
 title = "Mustekala"
 description = "Oil on canvas. 27 cm ⨯ 35 cm."
 date = "2021-11-08"
+[taxonomies]
+tags = ["underwater","nature"]
 [extra]
 image = "main.jpg"
 +++

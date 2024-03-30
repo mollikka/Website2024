@@ -3,6 +3,8 @@ title = "Demoniportaali (Portal of My Demo)"
 date = 2023-11-11
 [extra]
 image = "main.png"
+[taxonomies]
+tags = ["code"]
 +++
 
 {{

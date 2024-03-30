@@ -1,6 +1,8 @@
 +++
 title = "The Interstellar Ballroom"
 date = 2024-01-26
+[taxonomies]
+tags=["albumart"]
 [extra]
 soundcloud = "playlists/1763122194"
 image = "1.png"

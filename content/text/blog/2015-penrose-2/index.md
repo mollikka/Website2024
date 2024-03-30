@@ -2,13 +2,14 @@
 title = "Penrose Tiling Adventures, part 2"
 description = "Curious patterns emerge from tile textures"
 date = "2015-05-10"
+aliases = ['/text/2015-penrose-2']
 [taxonomies]
 Language=["English"]
 tags = ["math","code"]
 series = ["penrose_tiling_adventures"]
 +++
 
-In [part 1](@/text/2015-penrose-1/index.md) of Penrose Tiling Adventures I realized that planning a Penrose
+In [part 1](@/text/blog/2015-penrose-1/index.md) of Penrose Tiling Adventures I realized that planning a Penrose
 surface manually is too much work, so I wrote some
 [code](https://github.com/mollikka/Penrose) to do that for me.
 

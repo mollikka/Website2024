@@ -2,6 +2,8 @@
 title = "Honeycomb Desk Organizer"
 description = "Bee-inspired holder for your office pens and paper knives."
 date = "2016-12-18"
+[taxonomies]
+tags=["3dprinting"]
 [extra]
 image = "1.jpg"
 +++

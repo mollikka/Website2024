@@ -2,6 +2,8 @@
 title = "Sienet"
 description = "Oil on canvas. 27 cm ⨯ 22 cm."
 date = "2020-09-21"
+[taxonomies]
+tags = ["nature"]
 [extra]
 image = "main.jpg"
 +++

@@ -2,9 +2,9 @@
 title = "Sellaista elämä on - Juha Vainion paras biisi"
 description = "Rehellinen laulu vastoinkäymisistä"
 date = "2024-02-08"
+aliases = ['/text/2024-elamani-taide-juha-vainio']
 [taxonomies]
 Language=["Suomi"]
-tags=["art"]
 +++
 
 Laulaja-lauluntekijä Juha Vainion tuotanto on humoristista, viisasta ja ennen kaikkea rehellistä ja todenmukaista.

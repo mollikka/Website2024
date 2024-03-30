@@ -1,6 +1,8 @@
 +++
 title = "Between Worlds"
 date = 2024-04-01
+[taxonomies]
+tags=["albumart"]
 [extra]
 image = "ep.png"
 +++

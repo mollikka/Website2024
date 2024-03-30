@@ -2,6 +2,8 @@
 title = "Ahven"
 description = "Oil on canvas. 41 cm ⨯ 33 cm."
 date = "2021-11-22"
+[taxonomies]
+tags = ["underwater","nature"]
 [extra]
 image = "main.jpg"
 +++

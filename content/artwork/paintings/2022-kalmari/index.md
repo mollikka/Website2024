@@ -2,6 +2,8 @@
 title = "Kalmari"
 description = "Oil on canvas. 27 cm ⨯ 35 cm."
 date = "2022-04-25"
+[taxonomies]
+tags = ["underwater","nature"]
 [extra]
 image = "main.jpg"
 +++

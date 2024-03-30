@@ -2,9 +2,10 @@
 title = "Penrose Tiling Adventures, part 1"
 description = "Filling an infinite plane with aperiodic stuff using simple rules"
 date = "2015-03-19"
+aliases = ['/text/2015-penrose-1']
 [taxonomies]
 Language=["English"]
-tags = ["math", "code"]
+tags = ["math","code"]
 series = ["penrose_tiling_adventures"]
 +++
 
@@ -122,7 +123,7 @@ Long story short, now the only limit to my tiling operation is floor space!
     )
 }}
 
-In [part 2](@/text/2015-penrose-2/index.md) I will leave the physical tiles behind and look deeper into the program. I will also find some interesting patterns while playing with the code.
+In [part 2](@/text/blog/2015-penrose-2/index.md) I will leave the physical tiles behind and look deeper into the program. I will also find some interesting patterns while playing with the code.
 
 {% comment(date='2015-03-24') %}
 *Today I gave a short presentation on my Penrose Tiling Adventures on the Aalto University course

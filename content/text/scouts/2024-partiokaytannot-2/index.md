@@ -1,11 +1,11 @@
 +++
-title = "Partiokäytäntöjä II: Ryhmänohjaajakoulutuksen retkikäytäntömoduuli"
+title = "Ryhmänohjaajakoulutuksen retkikäytäntömoduuli"
 description = "Muuttolintujen tapa opettaa retkien pestaamista"
 date = "2024-03-10"
+aliases = ['/text/2024-partiokaytannot-2']
 [taxonomies]
 Language=["Suomi"]
 tags=["scouts"]
-series = ["partiokaytantoja"]
 +++
 
 {% comment(date='2024-03-10') %}

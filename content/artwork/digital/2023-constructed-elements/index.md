@@ -2,6 +2,8 @@
 title = "Constructed Elements"
 description = "3D illustrations in Blender"
 date = 2023-11-27
+[taxonomies]
+tags = ["blender"]
 [extra]
 image = "blueprint.png"
 +++
