@@ -1,19 +1,23 @@
 +++
 title = "Between Worlds"
-date = 2024-04-01
+date = 2024-03-30
 [taxonomies]
-tags=["albumart"]
+tags=["albumart","featured"]
 [extra]
 image = "ep.png"
 +++
-
-Coming soon...
 
 First main EP
 
 Original MIDI music
 
-Mastered by [Joel Lindfors](https://www.lindforsproductions.com/)
+Mastered by [Joel Lindfors](https://www.lindforsproductions.com/). 
+Special thanks to Joel for helping with the arrangements and for answering my questions.
+
+Listen:
+
+- [YouTube](https://www.youtube.com/watch?v=iF273DDHuXM)
+- [SoundCloud](https://soundcloud.com/lauri-tervonen/sets/between-worlds)
 
 Used resources:
 
