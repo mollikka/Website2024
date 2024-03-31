@@ -6,6 +6,8 @@ aliases = ['/text/2023-spomenik-retki']
 [taxonomies]
 Language=["Suomi"]
 tags=["adventure","featured"]
+[extra]
+image = "day3/7.jpg"
 +++
 
 Syksyllä 2023 tein kahden ystäväni kanssa retken Kroatian ja Bosnia & Hertsegovinan halki.
