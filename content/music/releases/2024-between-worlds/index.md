@@ -35,17 +35,3 @@ Tracks:
 6. Defeat
 7. Synthesis
 8. Between Three More Worlds
-
-## Singles
-
-{{
-    figure(
-        img="single1.png"
-        description="Defeat")
-}}
-
-{{
-    figure(
-        img="single2.png"
-        description="Market for Demons")
-}}
