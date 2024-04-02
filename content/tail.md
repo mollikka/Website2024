@@ -28,6 +28,40 @@ title = "The Backrooms"
         description="Reaktor consultant portrait")
 }}
 
+## Profile pictures
+
+{{
+    figure(
+        img="/images/profile/cybermölli_id.jpg"
+        description="Cybermölli Square"
+        class="pixelart"
+    )
+}}
+
+{{
+    figure(
+        img="/images/profile/2021-cybermölli.png"
+        description="Cybermölli Full"
+        class="pixelart"
+    )
+}}
+
+{{
+    figure(
+        img="/images/profile/2024-01-28-pixel-me.png"
+        description="Pixel Me"
+        class="pixelart"
+    )
+}}
+
+{{
+    figure(
+        img="/images/profile/2024-01-28-pixel-me-transparent.png"
+        description="Pixel Me, with transparent background"
+        class="pixelart"
+    )
+}}
+
 ## Old pictures
 
 {{
