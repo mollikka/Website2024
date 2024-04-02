@@ -3,7 +3,7 @@ title = "Between Worlds"
 description = "3D illustrations in Blender"
 date = 2024-04-01
 [taxonomies]
-tags = ["blender"]
+tags = ["blender", "featured"]
 [extra]
 image = "victory.png"
 +++
