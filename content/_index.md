@@ -1,6 +1,8 @@
 +++
 title="Lauri Tervonen"
 description="Welcome to my little garden of creations."
+[extra]
+theme = "themeGreen"
 +++
 
 I am Lauri, a.k.a. Möllikkä [møl:ik:æ].
