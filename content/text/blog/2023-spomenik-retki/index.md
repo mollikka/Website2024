@@ -12,7 +12,7 @@ image = "day3/7.jpg"
 
 Syksyllä 2023 tein kahden ystäväni kanssa retken Kroatian ja Bosnia & Hertsegovinan halki.
 
-Päätarkoituksenani oli päästä näkemään entisen Jugoslavian toisen maailmansodan muistomerkkejä eli spomenikkeja, ja ihmeen kaupalla ystävänikin innostuivat tästä ajatuksesta. Abstraktit, modernistiset, usein betonista ja teräksestä rakennetut monumentit muistuttavat sotilaista, siviiliuhreista, taisteluista ja tukikohdista. Monet muistomerkeistä on tuhottu, hylätty tai unohdettu Jugoslavian hajottua, ja suuri osa jäljellä olevista rapistuu vuosi vuodelta.
+Päätarkoituksenani oli päästä näkemään entisen Jugoslavian toisen maailman&shy;sodan muistomerkkejä eli spomenikkeja, ja ihmeen kaupalla ystävänikin innostuivat tästä ajatuksesta. Abstraktit, modernistiset, usein betonista ja teräksestä rakennetut monumentit muistuttavat sotilaista, siviili&shy;uhreista, taisteluista ja tukikohdista. Monet muistomerkeistä on tuhottu, hylätty tai unohdettu Jugoslavian hajottua, ja suuri osa jäljellä olevista rapistuu vuosi vuodelta.
 
 Käytimme hyväksemme [Spomenik Database](https://www.spomenikdatabase.org/) -sivustoa, joka listaa tunnetut muistomerkit.
 
@@ -48,7 +48,7 @@ Ensimmäinen muistomerkki löytyi Makarskasta kaupungin keskeltä.
     landmark(
         title="Spomenik: Makarska Spomeniku revolucije"
         link="https://www.spomenikdatabase.org/makarska"
-        description="Makarskan kaupungissa on paikallisten sotilaiden muistomerkki, joka toimii nykyään observatoriona, ja sen ympärille on rakennettu eri taivaankappaleita kuvaavia veistoksia."
+        description="Makarskan kaupungissa on paikallisten sotilaiden muistomerkki, joka toimii nykyään observatoriona, ja sen ympärille on rakennettu taivaankappaleita kuvaavia veistoksia."
         longitude=17.0164167
         latitude=43.2960278)
 }}
@@ -102,7 +102,7 @@ Matka jatkui rantatietä pitkin Makarskasta Podgoraan. Mäen päällä odotti se
         description="Kroatialainen auringonlasku Podgorassa")
 }}
 
-Saavuimme yöllä Bosnia & Hertsegovinaan. Ajelimme pimeässä vuoristoteitä Mostariin nukkumaan.
+Saavuimme yöllä Bosnia & Hertsegovinaan. Ajelimme pimeässä vuoristo&shy;teitä Mostariin nukkumaan.
 
 Vieraassa kaupungissa yöllä harhaileminen oli jännittävää. Harhailimme hyvän aikaa Mostarin lähiöissä etsimässä majapaikkaamme, sillä paikallisten katuosoitteiden logiikka ei heti auennut turisteille. Paikalliset olivat onneksi oikein ystävällisiä, joskaan eivät osanneet neuvoa suuntia yhtään sen paremmin. Lopulta paikka löytyi Airbnb:n valokuvia vertailemalla.
 
@@ -252,7 +252,7 @@ Asetuimme Bihaćiin iltapäivällä, ja lähdimme vielä katsomaan monumenttia k
     )
 }}
 
-Kello oli kuusi illalla, ja aurinko oli laskemassa mäen taakse. Laskeskelimme, riittäisikö aika siihen, että kävisimme vielä Grmeč-vuorella. Matkaa olisi ainakin puolitoista tuntia vuoren rinnettä pikkuteitä ylämäkeen. Hetken mietittyämme päätimme lähteä.
+Kello oli kuusi illalla, ja aurinko oli laskemassa mäen taakse. Laskimme, riittäisikö aika siihen, että kävisimme vielä Grmeč-vuorella. Matkaa olisi ainakin puolitoista tuntia vuorenrinnettä ylös. Hetken mietittyämme päätimme lähteä.
 
 {{
     figure(
@@ -261,7 +261,7 @@ Kello oli kuusi illalla, ja aurinko oli laskemassa mäen taakse. Laskeskelimme, 
     )
 }}
 
-Bensa oli vähissä, mutta jostain syystä emme pysähtyneet tankkaamaan viimeisessä kylässä ennen vuorenrinnettä. Ajoimme pikkuteitä ylämäkeen, kunnes tie loppui keskelle säkkipimeää metsää. Ylämäkeen ajaessa bensa oli kulunut nopeasti, ja pysäköidessämme auton mittari ennusti, että löpöä riittää enää 15 kilometrin matkalle. Sillä tuskin pääsisi takaisin Bihaćiin 70 kilometrin päähän.
+Bensa oli vähissä, mutta jostain syystä emme pysähtyneet tankkaamaan viimeisessä kylässä. Ajoimme pikku&shy;teitä ylämäkeen, kunnes tie loppui keskelle säkkipimeää metsää. Vuoriteillä ajaessa bensa oli kulunut nopeasti, ja pysäköidessämme auton mittari ennusti, että löpöä riittää enää 15 kilo&shy;metrin matkalle. Sillä tuskin pääsisi takaisin Bihaćiin 70 kilo&shy;metrin päähän.
 
 Nousimme autosta. Ilman taskulamppua eteensä ei nähnyt metriäkään.
 
@@ -316,7 +316,7 @@ Monumentin lähellä on myös hylätty hotelli, mutta matkaseurueeni ei suostunu
     )
 }}
 
-Palasimme autolle noin yhdeksältä illalla. Auto ei enää antanut mitään arviota ajokilometreistä, joten paluu Bihaćiin ei tullut kysymykseen edes alamäkeä. Lähin bensa-asema oli noin 15 km väärään suuntaan, mutta vaihtoehtoja ei ollut. Lähdimme sinne. Bensa-aseman sulkemisajaksi oli ilmoitettu 22.00, joten ehtisimme hyvin, ajattelimme.
+Palasimme autolle noin yhdeksältä illalla. Auto ei enää antanut mitään arviota ajokilometreistä, joten paluu Bihaćiin ei tullut kysymykseen edes alamäkeä. Lähin bensa-asema oli noin 15 km väärään suuntaan, mutta vaihto&shy;ehtoja ei ollut. Lähdimme sinne. Bensa-aseman sulkemisajaksi oli ilmoitettu 22.00, joten ehtisimme hyvin, ajattelimme.
 
 {{
     figure(
@@ -336,7 +336,7 @@ Paikalliset ohikulkijat neuvoivat 24/7-huoltoaseman seuraavassa kylässä, ja aj
     )
 }}
 
-Jotenkin viimeiset bensahuurut riittivät Sanski Mostin huolto&shy;asemalle asti. Olimme kulkeneet koko päivän Bosnian maaseudulla, ja tuntien ajon jälkeen huoltoaseman neonvalot näyttivät aivan toiselta maailmalta kuin pimeät vuoristotiet – kuin avaruusalus olisi laskeutunut pelastamaan meidät.
+Jotenkin viimeiset bensahuurut riittivät Sanski Mostin huolto&shy;asemalle asti. Olimme kulkeneet koko päivän Bosnian maaseudulla, ja tuntien ajon jälkeen huoltoaseman neonvalot näyttivät aivan toiselta maailmalta kuin pimeät vuoristo&shy;tiet – kuin avaruusalus olisi laskeutunut pelastamaan meidät.
 
 Kotimatka pidentyi merkittävästi, mutta selvisimme! Olimme puoliltaöin Bihaćissa.
 
