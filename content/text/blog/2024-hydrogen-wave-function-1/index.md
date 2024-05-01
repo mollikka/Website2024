@@ -5,6 +5,7 @@ date = "2024-04-07"
 [taxonomies]
 Language=["English"]
 tags=["code","math"]
+series=["hydrogen-wave-function"]
 +++
 
 I want to learn how to render hydrogen atom electron density clouds.
@@ -155,7 +156,6 @@ def radialProbability(n,l):
 Below we have plots showing radial probability in blue.
 The rings of each orbital are clearly visible on the plots: the electron is most likely to be observed on separated bands. The x-asis is the distance from nucleus in Bohr radius units.
 
-#### n=1
 {{
         figure(
                 img="radial-1-0.png",
@@ -163,7 +163,6 @@ The rings of each orbital are clearly visible on the plots: the electron is most
         )
 }}
 
-#### n=2
 {{
         figure(
                 img="radial-2-0.png",
@@ -177,7 +176,6 @@ The rings of each orbital are clearly visible on the plots: the electron is most
         )
 }}
 
-#### n=3
 {{
         figure(
                 img="radial-3-0.png",
@@ -217,7 +215,6 @@ def sphericalHarmonic(l,m):
 
 Below we have plots showing angular probability in blue.
 
-#### l=0
 {{
         figure(
                 img="spherical-0-0.png",
@@ -225,7 +222,6 @@ Below we have plots showing angular probability in blue.
         )
 }}
 
-#### l=1
 {{
         figure(
                 img="spherical-1-0.png",
@@ -239,7 +235,6 @@ Below we have plots showing angular probability in blue.
         )
 }}
 
-#### l=2
 {{
         figure(
                 img="spherical-2-0.png",
