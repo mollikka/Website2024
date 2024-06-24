@@ -1,6 +1,6 @@
 +++
 title = "Sorsa"
-description = "Oil on canvas. xx cm ⨯ xx cm."
+description = "Oil on canvas. 55 cm ⨯ 46 cm."
 date = "2024-03-18"
 [taxonomies]
 tags = ["nature"]
