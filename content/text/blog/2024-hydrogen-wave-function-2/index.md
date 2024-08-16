@@ -34,35 +34,97 @@ def cartesianToSpherical(x,y,z):
 
 ## Results
 
+<div class="sideBySide">
 {{
-        multiFigure(
-                images=["radial-3-1.png","spherical-1-1.png","orbital-3-1-1.png"],
+        figure(
+                img="orbital-3-1-1.png",
                 description="n=3, l=1, m=1"
         )
 }}
-
+<div>
 {{
-        multiFigure(
-                images=["radial-3-2.png","spherical-2-1.png","orbital-3-2-1.png"],
+        figure(
+                img="radial-3-1.png",
+                description="Radial component, n=3, l=1"
+        )
+}}
+{{
+        figure(
+                img="spherical-1-1.png",
+                description="Spherical component, l=1, m=1"
+        )
+}}
+</div>
+</div>
+
+<div class="sideBySide">
+{{
+        figure(
+                img="orbital-3-2-1.png",
                 description="n=3, l=2, m=1"
         )
 }}
-
+<div>
 {{
-        multiFigure(
-                images=["radial-4-1.png","spherical-1-0.png","orbital-4-1-0.png"],
+        figure(
+                img="radial-3-2.png",
+                description="Radial component, n=3, l=2"
+        )
+}}
+{{
+        figure(
+                img="spherical-2-1.png",
+                description="Spherical component, l=2, m=1"
+        )
+}}
+</div>
+</div>
+
+<div class="sideBySide">
+{{
+        figure(
+                img="orbital-4-1-0.png",
                 description="n=4, l=1, m=0"
         )
 }}
-
+<div>
 {{
-        multiFigure(
-                images=["radial-5-3.png","spherical-3-0.png","orbital-5-3-0.png"],
+        figure(
+                img="radial-4-1.png",
+                description="Radial component, n=4, l=1"
+        )
+}}
+{{
+        figure(
+                img="spherical-1-0.png",
+                description="Spherical component, l=1, m=0"
+        )
+}}
+</div>
+</div>
+
+<div class="sideBySide">
+{{
+        figure(
+                img="orbital-5-3-0.png",
                 description="n=5, l=3, m=0"
         )
 }}
-
-
+<div>
+{{
+        figure(
+                img="radial-5-3.png",
+                description="Radial component, n=5, l=3"
+        )
+}}
+{{
+        figure(
+                img="spherical-3-0.png",
+                description="Spherical component, l=3, m=0"
+        )
+}}
+</div>
+</div>
 
 ### Orbitals
 

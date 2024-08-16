@@ -58,12 +58,20 @@ After this I call `draw_model(surf,model,offx,offy,scale,draw_options)`, where `
 So I did that with different sketches, and the results are below. I think these
 could make nice textiles.
 
+<div class="sideBySide">
 {{
-        multiFigure(
-                images=["penrose_kite_1.png","penrose_dart_1.png"],
-                description="Kite and dart input textures"
+        figure(
+                img="penrose_kite_1.png",
+                description="Kite input texture"
         )
 }}
+{{
+        figure(
+                img="penrose_dart_1.png",
+                description="Dart input texture"
+        )
+}}
+</div>
 
 {{
         figure(
@@ -72,12 +80,20 @@ could make nice textiles.
         )
 }}
 
+<div class="sideBySide">
 {{
-        multiFigure(
-                images=["penrose_kite_2.png","penrose_dart_2.png"],
-                description="Kite and dart input textures"
+        figure(
+                img="penrose_kite_2.png",
+                description="Kite input texture"
         )
 }}
+{{
+        figure(
+                img="penrose_dart_2.png",
+                description="Dart input texture"
+        )
+}}
+</div>
 
 {{
         figure(
@@ -86,12 +102,20 @@ could make nice textiles.
         )
 }}
 
+<div class="sideBySide">
 {{
-        multiFigure(
-                images=["penrose_kite_3.png","penrose_dart_3.png"],
-                description="Kite and dart input textures"
+        figure(
+                img="penrose_kite_3.png",
+                description="Kite input texture"
         )
 }}
+{{
+        figure(
+                img="penrose_dart_3.png",
+                description="Dart input texture"
+        )
+}}
+</div>
 
 {{
         figure(
@@ -100,12 +124,20 @@ could make nice textiles.
         )
 }}
 
+<div class="sideBySide">
 {{
-        multiFigure(
-                images=["penrose_kite_4.png","penrose_dart_4.png"],
-                description="Kite and dart input textures"
+        figure(
+                img="penrose_kite_4.png",
+                description="Kite input texture"
         )
 }}
+{{
+        figure(
+                img="penrose_dart_4.png",
+                description="Dart input texture"
+        )
+}}
+</div>
 
 {{
         figure(
@@ -114,12 +146,20 @@ could make nice textiles.
         )
 }}
 
+<div class="sideBySide">
 {{
-        multiFigure(
-                images=["penrose_kite_7.png","penrose_dart_7.png"],
-                description="Kite and dart input textures"
+        figure(
+                img="penrose_kite_7.png",
+                description="Kite input texture"
         )
 }}
+{{
+        figure(
+                img="penrose_dart_7.png",
+                description="Dart input texture"
+        )
+}}
+</div>
 
 {{
         figure(

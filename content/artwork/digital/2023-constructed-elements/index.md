@@ -16,14 +16,38 @@ image = "blueprint.png"
                 hidetext=true
         )
 }}
+
+<div class="sideBySide full-width">
 {{
-        multiFigure(
-                images=["planet-studies-1.png","planet-studies-2.png","planet-studies-3.png","planet-studies-5.png"],
+        figure(
+                img="planet-studies-1.png",
                 description="Planet Studies",
-                class="full-width",
                 hidetext=true
         )
 }}
+{{
+        figure(
+                img="planet-studies-2.png",
+                description="Planet Studies",
+                hidetext=true
+        )
+}}
+{{
+        figure(
+                img="planet-studies-3.png",
+                description="Planet Studies",
+                hidetext=true
+        )
+}}
+{{
+        figure(
+                img="planet-studies-5.png",
+                description="Planet Studies",
+                hidetext=true
+        )
+}}
+</div>
+
 {{
         figure(
                 img="dark.png",
