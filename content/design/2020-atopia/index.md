@@ -40,10 +40,6 @@ image = "main.png"
 
 ## Animation loops for Youtube
 
-{{
-    youtube(id = "ookG19rELAE")
-}}
+- [YouTube](https://www.youtube.com/watch?v=ookG19rELAE)
+- [YouTube](https://www.youtube.com/watch?v=9VkbutNbkl4)
 
-{{
-    youtube(id = "9VkbutNbkl4")
-}}

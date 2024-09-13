@@ -7,9 +7,9 @@ image = "main.png"
 tags = ["code"]
 +++
 
-{{
-    youtube(id = "wwGAO3uRm9w")
-}}
+Watch:
+
+- [YouTube](https://www.youtube.com/watch?v=wwGAO3uRm9w)
 
 Demoniportaali (Portal of My Demo) WebGL graphics demo. Developed and presented in latest Chrome browser on a Macbook Pro M1. The graphics utilize SDF functions as described by [Inigo Quilez](https://iquilezles.org/articles/distfunctions/).
 
