@@ -9,13 +9,11 @@ Development dependencies:
 Develop:
 
 ```sh
-python3 themes/MollikkaStuffMonospaceZolaTheme/mathrender.py
-zola serve
+./dev.sh
 ```
 
 Build:
 
 ```sh
-python3 themes/MollikkaStuffMonospaceZolaTheme/mathrender.py
-zola build
+./build.sh
 ```
