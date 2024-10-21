@@ -21,7 +21,7 @@ author = "Lauri Tervonen"
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
-highlight_theme = "OneHalfDark"
+highlight_theme = "css"
 
 [extra]
 languages = ["English", "Suomi"]
