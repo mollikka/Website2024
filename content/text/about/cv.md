@@ -1,7 +1,10 @@
 +++
 title = "CV"
-template = "single/essay.html"
 description = "Lauri Tervonen, work and education history"
+aliases = ['/cv']
+date = "2024-10-29"
+[taxonomies]
+Language=["English"]
 +++
 
 <img src="/images/profile/2022-id.jpg" class="cv-portrait" alttext="Lauri Tervonen">
