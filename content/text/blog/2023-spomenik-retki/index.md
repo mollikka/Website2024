@@ -528,3 +528,8 @@ Retki oli ainakin omalta osaltani erittäin onnistunut. Vaikka jännittäviä ti
 - [Ex Utopia: Spomeniks of Former Yugoslavia: Myth & Memory in the Balkans](https://www.exutopia.com/myth-memory-in-the-balkans-the-spomeniks-of-former-yugoslavia/)
 - [Ex Utopia: The Bad Place: Slime & Foreboding at the Grmeč Spomenpark in Bosnia](https://www.exutopia.com/the-bad-place-slime-foreboding-at-the-grmec-spomenpark-in-bosnia/)
 - [Architectuul: Memory of Memorials](https://architectuul.com/digest/memory-of-memorials)
+
+{% comment(date='2024-10-29') %}
+Löysin Youtubesta uuden videon aiheesta: 
+[The Present Past: The Genius Design of Communist Memorials](https://www.youtube.com/watch?v=5TKZsnujzk0)
+{% end %}
