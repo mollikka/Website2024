@@ -19,23 +19,37 @@ Voit lukea [blogikirjoituksiani partiosta](@/text/scouts/_index.md).
 
 ## Luottamustehtävät
 
-### Lippukunta Muuttolinnut ry
+### Partiolippukunta Muuttolinnut ry
 
-* 2023 - 2024: Lippukunnanjohtaja
-* 2013 - 2024: Hallituksen jäsen
+#### Lippukuntapestit
+
+* 2023 - 2024: lippukunnanjohtaja
+* 2013 - 2024: hallituksen jäsen
 * 2008 - 2024: WWW-vastaava
-* 2015 - 2022: Ohjelmajohtaja
+* 2016 - 2022: ohjelmajohtaja
 * 2016: rahastonhoitaja
 
-- 2023 - 2024: Vaeltajaluotsi, Metrokuskit & Muuttolintujen vaeltajajoukkue
-- 2020 - 2023: Samoajaluotsi, Metrokuskit
-- 2017 - 2020: Tarpojaluotsi, Rekkakuskit
-- 2016 - 2017: Akela, Kanahaukat
-- 2015 - 2017: Seikkailijaryhmän ryhmänohjaaja, Rekkakuskit
-- 2014 - 2015: Akela, Kultakotkat
+#### Ryhmänohjaus ja luotsaus
 
-* 2015 - 2022: retkenjohtaja, useita lippukuntaretkiä
-* 2019: Kesäleirin ohjelmajohtaja, Byggis-leiri
+- 2023 - 2024: Metrokuskit, vaeltajaluotsi
+- 2020 - 2023: Metrokuskit, samoajaluotsi
+- 2017 - 2020: Rekkakuskit, tarpojaluotsi
+- 2016 - 2017: Kanahaukat, akela
+- 2015 - 2017: Rekkakuskit, sampo
+- 2014 - 2015: Kultakotkat, akela
+
+#### Tapahtumapestit
+
+* 2022: Finnjamboree Kajo, leirilippukunnan pestijohtaja
+* 2015 - 2022: retkenjohtaja useilla lippukuntaretkillä
+* 2019: Lippukuntaleiri Byggis, leirin ohjelmajohtaja
+* 2018: Piirileiri Kliffa, leirilippukunnan ohjelmajohtaja
+* 2016: Finnjamboree Roihu, leirilippukunnan tarpojaluotsi
+
+### Tammi ry
+
+- 2022: ryhmänohjaajakoulutus, kouluttaja
+- 2020: ryhmänohjaajakoulutus, kouluttaja
 
 ### Espoon Partiotuki
 
@@ -44,9 +58,9 @@ Voit lukea [blogikirjoituksiani partiosta](@/text/scouts/_index.md).
 
 ### Pääkaupunkiseudun Partiolaiset
 
-- 2024: Kimara, piirileirin Kaupunki-laakson laaksomestari 2024
+- 2024: Piirileiri Kimara, Kaupunki-laakson laaksomestari
 
-## Koulutus
+## Kouluttautuminen
 
 - 2022 - 2023: Partiojohtajajatkokurssi Ko-Gi-144
 - 2022: Turvallisesti yhdessä
