@@ -3,7 +3,7 @@ title = "Rekkakuskit"
 description = "Scout patch"
 date = "2018-11-14"
 [taxonomies]
-tags=["scouts"]
+tags=["partiomerkit"]
 [extra]
 image = "main.png"
 +++

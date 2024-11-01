@@ -6,6 +6,8 @@ date = "2024-05-01"
 Language=["English"]
 tags=["code","math"]
 series=["hydrogen-wave-function"]
+[extra]
+image="orbital-5-3-0.png"
 +++
 
 This time I will plot cross sections of the electron density clouds.

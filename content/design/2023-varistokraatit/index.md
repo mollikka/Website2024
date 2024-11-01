@@ -3,7 +3,7 @@ title = "Varistokraatit"
 description = "Scout patch"
 date = "2023-01-27"
 [taxonomies]
-tags=["scouts"]
+tags=["partiomerkit"]
 [extra]
 image = "main.png"
 +++

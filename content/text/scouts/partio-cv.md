@@ -5,7 +5,6 @@ description = "Lauri Tervonen, partio-CV"
 date = "2024-10-30"
 [taxonomies]
 Language=["Suomi"]
-tags=["scouts"]
 +++
 
 <img src="/images/profile/2022-id.jpg" class="cv-portrait" alttext="Lauri Tervonen">

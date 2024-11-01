@@ -6,6 +6,8 @@ date = "2024-04-07"
 Language=["English"]
 tags=["code","math"]
 series=["hydrogen-wave-function"]
+[extra]
+image="roadmap.jpg"
 +++
 
 I want to learn how to render hydrogen atom electron density clouds.

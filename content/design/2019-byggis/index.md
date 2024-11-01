@@ -3,7 +3,7 @@ title = "Byggis"
 description = "Scout patch"
 date = "2019-06-14"
 [taxonomies]
-tags=["scouts"]
+tags=["partiomerkit"]
 [extra]
 image = "main.png"
 +++

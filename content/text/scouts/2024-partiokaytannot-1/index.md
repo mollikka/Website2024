@@ -5,7 +5,8 @@ date = "2024-01-09"
 aliases = ['/text/2024-partiokaytannot-1']
 [taxonomies]
 Language=["Suomi"]
-tags=["scouts"]
+[extra]
+image="2-vastuunjako.jpg"
 +++
 
 Muuttolinnut RY on espoolainen partio&shy;lippukunta, jota johtaa johto&shy;kolmikko. Johto&shy;kolmikko on osa lippukunnan hallitusta.

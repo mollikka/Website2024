@@ -7,6 +7,8 @@ aliases = ['/text/2015-penrose-2']
 Language=["English"]
 tags = ["math","code"]
 series = ["penrose-tiling-adventures"]
+[extra]
+image="penrose_solid.png"
 +++
 
 In [part 1](@/text/blog/2015-penrose-1/index.md) of Penrose Tiling Adventures I realized that planning a Penrose

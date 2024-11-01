@@ -26,6 +26,7 @@ highlight_theme = "css"
 [extra]
 languages = ["English", "Suomi"]
 author_portrait = "/images/profile/2022-id.jpg"
+featured_tags = ["ohjelmaideat", "partiomerkit"]
 
 menu_items = [
     {name = "head", url = "/"},

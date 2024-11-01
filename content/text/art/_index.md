@@ -1,7 +1,7 @@
 +++
 title = "Art"
 sort_by = "date"
-template = "list/blog.html"
+template = "list/simple.html"
 page_template = "single/essay.html"
 weight = 3
 +++
