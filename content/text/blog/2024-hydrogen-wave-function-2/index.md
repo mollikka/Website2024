@@ -7,7 +7,7 @@ Language=["English"]
 tags=["code","math"]
 series=["hydrogen-wave-function"]
 [extra]
-image="orbital-5-3-0.png"
+image="orbital-4-1-0.png"
 +++
 
 This time I will plot cross sections of the electron density clouds.
