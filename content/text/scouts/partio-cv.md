@@ -7,7 +7,9 @@ date = "2024-10-30"
 Language=["Suomi"]
 +++
 
-<img src="/images/profile/2022-id.jpg" class="cv-portrait" alttext="Lauri Tervonen">
+{{
+  portrait()
+}}
 
 Olen harrastanut partiota Muuttolinnuissa vuodesta 2004. 
 

@@ -7,7 +7,9 @@ date = "2024-10-29"
 Language=["English"]
 +++
 
-<img src="/images/profile/2022-id.jpg" class="cv-portrait" alttext="Lauri Tervonen">
+{{
+  portrait()
+}}
 Lauri is a software developer with a solid computer science background and 5+ years of experience developing and maintaining software projects. He solves technical and social problems from optimizing relational database queries to driving systemic change in long-running development processes.
 
 ## Work Experience
