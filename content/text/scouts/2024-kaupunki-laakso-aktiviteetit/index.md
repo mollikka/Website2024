@@ -10,7 +10,7 @@ series=["kimara2024"]
 image="kuvat/laaksoportti.jpg"
 +++
 
-Kaupunki-laakson toteutti ja loppuraporttiaineiston toimittivat laaksomestarit Lauri Tervonen ja Sara Simola yhdessä kymppitiimin kanssa.
+Kaupunki-laakson toteuttivat ja loppuraporttiaineiston toimittivat laaksomestarit Lauri Tervonen ja Sara Simola yhdessä kymppitiimin kanssa.
 
 {{
     figure(
