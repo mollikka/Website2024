@@ -6,6 +6,7 @@ date = "2024-10-30"
 [taxonomies]
 Language=["Suomi"]
 [extra]
+image="tapahtumamerkit.jpg"
 portrait="/images/profile/2024-partio-portrait.jpg"
 +++
 
