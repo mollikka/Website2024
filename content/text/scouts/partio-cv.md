@@ -5,11 +5,11 @@ description = "Lauri Tervonen, partio-CV"
 date = "2024-10-30"
 [taxonomies]
 Language=["Suomi"]
+[extra]
+portrait="/images/profile/2024-partio-portrait.jpg"
 +++
 
-{{
-  portrait()
-}}
+{{ portrait() }}
 
 Olen harrastanut partiota Muuttolinnuissa vuodesta 2004. 
 

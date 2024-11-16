@@ -27,6 +27,11 @@ title = "The Backrooms"
         img="/images/profile/2022-id.jpg"
         description="Reaktor consultant portrait")
 }}
+{{
+    multisizeLogoZoo(
+        img="/images/profile/2024-partio-portrait.jpg"
+        description="Casual scout portrait")
+}}
 
 ## Profile pictures
 
