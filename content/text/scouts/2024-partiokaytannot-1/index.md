@@ -7,6 +7,7 @@ aliases = ['/text/2024-partiokaytannot-1']
 Language=["Suomi"]
 [extra]
 image="2-vastuunjako.jpg"
+tableOfContents=true
 +++
 
 Muuttolinnut RY on espoolainen partio&shy;lippukunta, jota johtaa johto&shy;kolmikko. Johto&shy;kolmikko on osa lippukunnan hallitusta.

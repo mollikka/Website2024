@@ -8,6 +8,7 @@ tags=["ohjelmaideat"]
 series=["kimara2024"]
 [extra]
 image="kuvat/laaksoportti.jpg"
+tableOfContents=true
 +++
 
 Kaupunki-laakson toteuttivat ja loppuraporttiaineiston toimittivat laaksomestarit Lauri Tervonen ja Sara Simola yhdessä kymppitiimin kanssa.

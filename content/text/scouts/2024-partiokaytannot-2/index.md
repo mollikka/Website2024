@@ -8,6 +8,7 @@ Language=["Suomi"]
 tags=["ohjelmaideat"]
 [extra]
 image="pestien-hallinta.jpg"
+tableOfContents=true
 +++
 
 {% comment(date='2024-03-10') %}
