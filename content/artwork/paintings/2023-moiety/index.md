@@ -3,7 +3,7 @@ title = "Riven - Moiety tree"
 description = "Oil on canvas. 65 cm ⨯ 54 cm."
 date = "2023-11-27"
 [taxonomies]
-tags = ["fanart"]
+tags = ["fanart","featured"]
 [extra]
 image = "main.jpg"
 +++
