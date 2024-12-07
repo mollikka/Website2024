@@ -117,7 +117,7 @@ Pelin sääntöjä voi kehittää loputtomasti riippuen siitä, mihin kaupunkisu
 
 #### Materiaalit
 
-- [Kaavoituspelin ohje](materiaalit/kaavoituspeli-ohje.pdf)
+- [Kaavoituspelin ohje](@/text/scouts/2024-kaavoituspeli/index.md)
 
 ### 5. Kirjasto
 
