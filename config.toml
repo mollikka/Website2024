@@ -42,7 +42,6 @@ social_links = [
     {name = "Tumblr", url = "https://moellikkae.tumblr.com/"},
     {name = "GitHub", url = "https://github.com/mollikka/"},
     {name = "SoundCloud", url = "https://soundcloud.com/lauri-tervonen"},
-    {name = "Spoonflower", url = "https://www.spoonflower.com/profiles/moellikkae/"},
     {name = "Thingiverse", url = "https://www.thingiverse.com/stuffperson/"},
     {name = "Email", url = "lauri@mollikka.net"},
 ]

@@ -11,8 +11,5 @@ This is the harvest of a design idea that I’ve tried to grow since
 Along the way, parts of the idea was utilized in
 [Pandemonium (2020)](@/design/2020-pandemonium/index.md)
 and
-[Hydra (2020)](@/design/2020-hydra/index.md)
-along the way.
-Now it is ready to fill the plane the way it was meant to.
-
-The printed fabric is available for purchase on [Spoonflower](https://www.spoonflower.com/designs/11781503-romanesco-by-moellikkae).
+[Hydra (2020)](@/design/2020-hydra/index.md).
+Now it is ready to fill the plane.
