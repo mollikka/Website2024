@@ -10,7 +10,7 @@ trap cleanup EXIT
 
 # Start services as background processes
 
-python3 themes/MollikkaStuffMonospaceZolaTheme/mathrender.py &
+python3 themes/MollikkaStuffMonospaceZolaTheme/renderserver/main.py &
 
 sleep 1
 
