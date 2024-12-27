@@ -1,12 +1,14 @@
 +++
 title = "Sienet"
-description = "Oil on canvas. 27 cm ⨯ 22 cm."
+description = "Oil painting"
 date = "2020-09-21"
 [taxonomies]
 tags = ["nature"]
 [extra]
 image = "main.jpg"
 +++
+
+Oil on canvas. 27 cm ⨯ 22 cm.
 
 Painted in a hobbyist class in Helsinki.
 

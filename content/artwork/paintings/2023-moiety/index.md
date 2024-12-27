@@ -1,12 +1,14 @@
 +++
 title = "Riven - Moiety tree"
-description = "Oil on canvas. 65 cm ⨯ 54 cm."
+description = "Oil painting"
 date = "2023-11-27"
 [taxonomies]
 tags = ["fanart","featured"]
 [extra]
 image = "main.jpg"
 +++
+
+Oil on canvas. 65 cm ⨯ 54 cm.
 
 Painted in a hobbyist class in Helsinki.
 

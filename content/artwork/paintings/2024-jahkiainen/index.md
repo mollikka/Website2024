@@ -1,12 +1,14 @@
 +++
 title = "Jahkiainen"
-description = "Oil on canvas. 33 cm ⨯ 24 cm."
+description = "Oil painting"
 date = "2024-04-22"
 [taxonomies]
 tags = ["nature"]
 [extra]
 image = "main.jpg"
 +++
+
+Oil on canvas. 33 cm ⨯ 24 cm.
 
 Painted in a hobbyist class in Helsinki.
 
