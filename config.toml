@@ -25,7 +25,6 @@ highlight_theme = "css"
 
 [extra]
 languages = ["English", "Suomi"]
-featured_tags = ["ohjelmaideat", "partiomerkit"]
 
 portraits = {dev = "/images/profile/2022-id.jpg", scout = "/images/profile/2024-partio-portrait.jpg"}
 
