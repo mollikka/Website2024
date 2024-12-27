@@ -8,7 +8,7 @@ aliases = ['/partio']
 [extra]
 featured_tags=["ohjelmaideat","partiomerkit"]
 theme = "themeGreen"
-portrait="/images/profile/2024-partio-portrait.jpg"
+portrait="scout"
 +++
 
 Lauri Tervonen{{ portrait() }}

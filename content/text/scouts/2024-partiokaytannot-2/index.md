@@ -9,6 +9,7 @@ tags=["ohjelmaideat"]
 [extra]
 image="pestien-hallinta.jpg"
 tableOfContents=true
+portrait="scout"
 +++
 
 {% comment(date='2024-03-10') %}

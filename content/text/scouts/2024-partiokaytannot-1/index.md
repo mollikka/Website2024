@@ -8,6 +8,7 @@ Language=["Suomi"]
 [extra]
 image="2-vastuunjako.jpg"
 tableOfContents=true
+portrait="scout"
 +++
 
 Muuttolinnut RY on espoolainen partio&shy;lippukunta, jota johtaa johto&shy;kolmikko. Johto&shy;kolmikko on osa lippukunnan hallitusta.

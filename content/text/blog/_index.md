@@ -6,6 +6,7 @@ page_template = "single/essay.html"
 weight = 1
 [extra]
 featured_tags=["adventure","math"]
+portrait="dev"
 +++
 
 Hi, I'm Lauri. {{ portrait() }}

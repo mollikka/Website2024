@@ -5,6 +5,8 @@ aliases = ['/cv']
 date = "2024-10-29"
 [taxonomies]
 Language=["English"]
+[extra]
+portrait="scout"
 +++
 
 {{

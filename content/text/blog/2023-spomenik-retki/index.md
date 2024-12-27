@@ -9,6 +9,7 @@ tags=["adventure","featured"]
 [extra]
 image = "day3/7.jpg"
 tableOfContents=true
+portrait="dev"
 +++
 
 Syksyllä 2023 tein kahden ystäväni kanssa retken Kroatian ja Bosnia & Hertsegovinan halki.
