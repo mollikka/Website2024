@@ -23,5 +23,5 @@ tags = ["math"]
 {% end %}
 
 {% maths() %}
-2025 = \sum_{n=1}^{45} \left( 2n - 1 \right) = 1 + 2 + 3 + \dots + 89
+2025 = \sum_{n=1}^{45} \left( 2n - 1 \right) = 1 + 3 + 5 + \dots + 89
 {% end %}
