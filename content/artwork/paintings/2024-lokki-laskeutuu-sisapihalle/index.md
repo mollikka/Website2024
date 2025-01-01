@@ -2,7 +2,6 @@
 title = "Lokki laskeutuu sisäpihalle"
 description = "Oil painting"
 date = "2024-04-22"
-draft = true
 [taxonomies]
 tags = ["bird","nature"]
 [extra]

@@ -3,7 +3,6 @@ title = "Sellaista elämä on - Juha Vainion paras biisi"
 description = "Rehellinen laulu vastoinkäymisistä"
 date = "2024-02-08"
 aliases = ['/text/2024-elamani-taide-juha-vainio']
-draft=true
 [taxonomies]
 Language=["Suomi"]
 [extra]
