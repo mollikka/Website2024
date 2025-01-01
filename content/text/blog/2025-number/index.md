@@ -1,6 +1,6 @@
 +++
-title = "Number 2025"
-description = "Properties of the number 2025"
+title = "Properties of the number 2025"
+description = "2025 is a square number"
 date = "2025-01-01"
 [taxonomies]
 tags = ["math"]
