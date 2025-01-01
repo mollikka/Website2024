@@ -2,6 +2,7 @@
 title = "Spomenik-retki"
 description = "Seikkailu Kroatiassa ja Bosnia & Hertsegovinassa syyskuussa 2023"
 date = "2023-12-24"
+updated = "2024-10-29"
 aliases = ['/text/2023-spomenik-retki']
 [taxonomies]
 Language=["Suomi"]

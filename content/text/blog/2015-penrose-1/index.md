@@ -2,6 +2,7 @@
 title = "Penrose Tiling Adventures, part 1"
 description = "Filling an infinite plane with aperiodic stuff using simple rules"
 date = "2015-03-19"
+updated = "2015-03-24"
 aliases = ['/text/2015-penrose-1']
 [taxonomies]
 Language=["English"]
