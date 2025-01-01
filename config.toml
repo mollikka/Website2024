@@ -32,7 +32,7 @@ menu_items = [
     {name = "head", url = "/"},
     {name = "artwork", url = "/artwork/", theme="themeBlue"},
     {name = "music", url = "/music/"},
-    {name = "photos", url = "/photos/"},
+    {name = "photos", url = "/photos/", theme="themeRed"},
     {name = "text", url = "/text/"},
 ]
 

@@ -1,11 +1,7 @@
 +++
 title = "Photos"
-sort_by = "date"
-template = "section.html"
+template = "list/gallery.html"
+page_template = "single/artwork.html"
+[extra]
+theme = "themeRed"
 +++
-
-See more of my pictures on [Flickr](https://www.flickr.com/photos/mollikka/)
-
-{{
-  photoalbum()
-}}
