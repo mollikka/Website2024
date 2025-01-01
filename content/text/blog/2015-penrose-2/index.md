@@ -6,7 +6,7 @@ aliases = ['/text/2015-penrose-2']
 [taxonomies]
 Language=["English"]
 tags = ["math","code"]
-series = ["penrose-tiling-adventures"]
+series = ["Penrose Tiling Adventures"]
 [extra]
 image="penrose_solid.png"
 +++

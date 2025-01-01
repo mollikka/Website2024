@@ -5,7 +5,7 @@ date = "2024-10-31"
 [taxonomies]
 Language=["Suomi"]
 tags=["ohjelmaideat"]
-series=["kimara2024"]
+series=["Kimara 2024"]
 [extra]
 image="kuvat/laaksoportti.jpg"
 tableOfContents=true

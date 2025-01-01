@@ -4,7 +4,7 @@ description = "Pääkaupunkiseudun Partiolaisten piirileirin ohjelmalaakson lopp
 date = "2024-10-31"
 [taxonomies]
 Language=["Suomi"]
-series=["kimara2024"]
+series=["Kimara 2024"]
 [extra]
 image="salakuva.jpg"
 tableOfContents=true

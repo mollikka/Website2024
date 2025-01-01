@@ -5,7 +5,7 @@ date = "2024-05-01"
 [taxonomies]
 Language=["English"]
 tags=["code","math"]
-series=["hydrogen-wave-function"]
+series=["Hydrogen Wave Function"]
 [extra]
 image="orbital-4-1-0.png"
 +++
