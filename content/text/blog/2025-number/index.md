@@ -4,6 +4,8 @@ description = "2025 is a square number"
 date = "2025-01-01"
 [taxonomies]
 tags = ["math"]
+[extra]
+image = "2025.png"
 +++
 
 {% maths() %}
@@ -15,7 +17,7 @@ tags = ["math"]
 {% end %}
 
 {% maths() %}
-2025 = 45^2 = \left(20 + 25\right)^2
+2025 = ( \sum_{n=1}^{9} n )^2   = \left(20 + 25\right)^2
 {% end %}
 
 {% maths() %}
