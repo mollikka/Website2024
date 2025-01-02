@@ -61,7 +61,7 @@ Voit lukea [blogikirjoituksiani partiosta](@/text/scouts/_index.md).
 ### Pääkaupunkiseudun Partiolaiset
 
 - 2024: Piirileiri Kimara, Kaupunki-laakson laaksomestari \
-  [Laakson loppuraportti](/series/kimara2024)
+  [Laakson loppuraportti](/series/kimara-2024)
 
 ## Kouluttautuminen
 
