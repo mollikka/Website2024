@@ -31,7 +31,7 @@ and 72&deg;.
 The kite tile's angles are 72&deg;,72&deg;,72&deg; and 144&deg;.
 To achieve aperiodicity, there are rules to connecting these tiles. In
 my tiles, the rules are illustrated with arc trails: the arcs of adjacent
-tiles must touch each other. I recommend the [Wikipedia article](https://en.wikipedia.org/Penrose_tiling) on
+tiles must touch each other. I recommend the [Wikipedia article](https://en.wikipedia.org/wiki/Penrose_tiling) on
 Penrose tiles if you're looking for more specifics.
 
 {{
@@ -131,5 +131,5 @@ In [part 2](@/text/blog/2015-penrose-2/index.md) I will leave the physical tiles
 
 {% comment(date='2015-03-24') %}
 *Today I gave a short presentation on my Penrose Tiling Adventures on the Aalto University course
-[Crystal Flowers in Halls of Mirrors](https://noppa.aalto.fi/noppa/kurssi/mat-1.3000/etusivu). I'm a student on the course.*
+Crystal Flowers in Halls of Mirrors. I'm a student on the course.*
 {% end %}

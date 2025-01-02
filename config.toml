@@ -42,5 +42,5 @@ social_links = [
     {name = "GitHub", url = "https://github.com/mollikka/"},
     {name = "SoundCloud", url = "https://soundcloud.com/lauri-tervonen"},
     {name = "Thingiverse", url = "https://www.thingiverse.com/stuffperson/"},
-    {name = "Email", url = "lauri@mollikka.net"},
+    {name = "Email", url = "mailto:lauri@mollikka.net"},
 ]
