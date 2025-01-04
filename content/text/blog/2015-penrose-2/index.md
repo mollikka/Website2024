@@ -4,7 +4,7 @@ description = "Curious patterns emerge from tile textures"
 date = "2015-05-10"
 aliases = ['/text/2015-penrose-2']
 [taxonomies]
-Language=["English"]
+Language=["en-US"]
 tags = ["math","code"]
 series = ["Penrose Tiling Adventures"]
 [extra]

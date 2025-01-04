@@ -4,7 +4,7 @@ description = "Kadotettuja ja löydettyjä runoja, jotka on päivätty vuodelle 
 date = "2014-12-31"
 aliases = ['/text/2014-runoja']
 [taxonomies]
-Language=["Suomi"]
+Language=["fi-FI"]
 +++
 
 ## Lumen pinta

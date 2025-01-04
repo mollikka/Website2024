@@ -4,7 +4,7 @@ template = "single/essay.html"
 description = "Lauri Tervonen, partio-CV"
 date = "2024-10-30"
 [taxonomies]
-Language=["Suomi"]
+Language=["fi-FI"]
 [extra]
 image="tapahtumamerkit.jpg"
 portrait="scout"

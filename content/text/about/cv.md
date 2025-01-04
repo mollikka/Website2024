@@ -4,7 +4,7 @@ description = "Lauri Tervonen, work and education history"
 aliases = ['/cv']
 date = "2024-10-29"
 [taxonomies]
-Language=["English"]
+Language=["en-US"]
 [extra]
 portrait="scout"
 +++

@@ -3,7 +3,7 @@ title = "Hydrogen Wave Function Study Notes, part 1"
 description = "Goal: Render density functions"
 date = "2024-04-07"
 [taxonomies]
-Language=["English"]
+Language=["en-US"]
 tags=["code","math"]
 series=["Hydrogen Wave Function"]
 [extra]

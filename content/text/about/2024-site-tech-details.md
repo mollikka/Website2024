@@ -3,7 +3,7 @@ title = "Technical details of this website"
 description = "Static site generated using Zola"
 date = "2024-01-11"
 [taxonomies]
-Language=["English"]
+Language=["en-US"]
 tags=["code"]
 +++
 

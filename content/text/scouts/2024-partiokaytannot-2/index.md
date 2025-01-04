@@ -4,7 +4,7 @@ description = "Muuttolintujen tapa opettaa retkien pestaamista"
 date = "2024-03-10"
 aliases = ['/text/2024-partiokaytannot-2']
 [taxonomies]
-Language=["Suomi"]
+Language=["fi-FI"]
 tags=["ohjelmaideat"]
 [extra]
 image="pestien-hallinta.jpg"

@@ -4,7 +4,7 @@ description = "Yhdistyksen hallituskausi on projekti, johon kuuluu tavoitteita j
 date = "2024-01-09"
 aliases = ['/text/2024-partiokaytannot-1']
 [taxonomies]
-Language=["Suomi"]
+Language=["fi-FI"]
 [extra]
 image="2-vastuunjako.jpg"
 tableOfContents=true

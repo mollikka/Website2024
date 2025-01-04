@@ -24,7 +24,7 @@ highlight_code = true
 highlight_theme = "css"
 
 [extra]
-languages = ["English", "Suomi"]
+languages = ["en-US", "fi-FI"]
 
 portraits = {dev = "/images/profile/2022-id.jpg", scout = "/images/profile/2024-partio-portrait.jpg"}
 

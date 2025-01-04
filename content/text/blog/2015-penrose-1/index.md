@@ -5,7 +5,7 @@ date = "2015-03-19"
 updated = "2015-03-24"
 aliases = ['/text/2015-penrose-1']
 [taxonomies]
-Language=["English"]
+Language=["en-US"]
 tags = ["math","code"]
 series = ["Penrose Tiling Adventures"]
 [extra]

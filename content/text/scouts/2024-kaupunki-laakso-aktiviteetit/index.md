@@ -3,7 +3,7 @@ title = "Kaupunki-laakson aktiviteetit"
 description = "Pääkaupunkiseudun Partiolaisten piirileirin ohjelmalaakson loppuraportti"
 date = "2024-10-31"
 [taxonomies]
-Language=["Suomi"]
+Language=["fi-FI"]
 tags=["ohjelmaideat"]
 series=["Kimara 2024"]
 [extra]

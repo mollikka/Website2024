@@ -4,7 +4,7 @@ description = "Rehellinen laulu vastoinkäymisistä"
 date = "2024-02-08"
 aliases = ['/text/2024-elamani-taide-juha-vainio']
 [taxonomies]
-Language=["Suomi"]
+Language=["fi-FI"]
 [extra]
 image="Sellaista-elama-on.jpg"
 +++

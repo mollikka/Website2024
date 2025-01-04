@@ -5,7 +5,7 @@ date = "2023-12-24"
 updated = "2024-10-29"
 aliases = ['/text/2023-spomenik-retki']
 [taxonomies]
-Language=["Suomi"]
+Language=["fi-FI"]
 tags=["adventure","featured"]
 [extra]
 image = "day3/7.jpg"

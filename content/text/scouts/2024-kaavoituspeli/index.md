@@ -3,7 +3,7 @@ title = "Kaavoituspeli"
 description = "Kimara 2024 -leiriä varten suunniteltu kaupunkisuunnittelua käsittelevä lautapeli"
 date = "2024-12-07"
 [taxonomies]
-Language=["Suomi"]
+Language=["fi-FI"]
 tags=["ohjelmaideat"]
 [extra]
 image="../2024-kaupunki-laakso-aktiviteetit/kuvat/kaavoituspeli.jpg"
