@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "tsx runCrawl.ts; tsx runTests.ts"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2",
+    "playwright": "^1.48.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "@types/chai": "^5.0.1",
+    "@types/mocha": "^10.0.9",
+    "@types/node": "^22.8.6"
+  }
+}

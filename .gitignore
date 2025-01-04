@@ -2,3 +2,7 @@ public/
 .DS_STORE
 **/.DS_Store
 static/processed_images/
+test/node_modules/**
+test/dist/**
+test/externalLinks.json
+test/internalLinks.json
