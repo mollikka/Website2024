@@ -1,9 +1,10 @@
 +++
 title = "Blog posts about anything"
 sort_by = "date"
-template = "list/blog.html"
+template = "list/paginated/blog.html"
 page_template = "single/essay.html"
 weight = 1
+paginate_by = 5
 [extra]
 featured_tags=["adventure","math"]
 portrait="dev"

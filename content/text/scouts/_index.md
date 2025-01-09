@@ -1,10 +1,11 @@
 +++
 title = "Blogikirjoituksia partiosta"
 sort_by = "date"
-template = "list/blog.html"
+template = "list/paginated/blog.html"
 page_template = "single/essay.html"
 weight = 2
 aliases = ['/partio']
+paginate_by = 5
 [extra]
 featured_tags=["ohjelmaideat","partiomerkit"]
 theme = "themeGreen"
