@@ -37,7 +37,7 @@ title = "The Backrooms"
 
 {{
     figure(
-        imgAbsolute="/images/profile/cybermölli_id.jpg"
+        imgAbsolute="images/profile/cybermölli_id.jpg"
         description="Cybermölli Square"
         class="pixelart"
     )
@@ -45,7 +45,7 @@ title = "The Backrooms"
 
 {{
     figure(
-        imgAbsolute="/images/profile/2021-cybermölli.png"
+        imgAbsolute="images/profile/2021-cybermölli.png"
         description="Cybermölli Full"
         class="pixelart"
     )
@@ -53,7 +53,7 @@ title = "The Backrooms"
 
 {{
     figure(
-        imgAbsolute="/images/profile/2024-01-28-pixel-me.png"
+        imgAbsolute="images/profile/2024-01-28-pixel-me.png"
         description="Pixel Me"
         class="pixelart"
     )
@@ -61,7 +61,7 @@ title = "The Backrooms"
 
 {{
     figure(
-        imgAbsolute="/images/profile/2024-01-28-pixel-me-transparent.png"
+        imgAbsolute="images/profile/2024-01-28-pixel-me-transparent.png"
         description="Pixel Me, with transparent background"
         class="pixelart"
     )

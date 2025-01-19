@@ -12,6 +12,5 @@ Ydin was on display at [Habitare 2015](https://habitare.messukeskus.com/) in Mes
 {{
     figure(
         img="2.jpg"
-        description="Picture of the paper sculpture at the exhibition"
-        hidetext=true)
+        alttext="Picture of the paper sculpture at the exhibition")
 }}

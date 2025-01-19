@@ -123,8 +123,7 @@ Info on Legendre polynomials:
 {{
         figure(
                 img="roadmap.jpg",
-                description="Roadmap",
-                hidetext=true
+                alttext="Roadmap"
         )
 }}
 

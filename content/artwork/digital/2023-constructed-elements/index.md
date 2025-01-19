@@ -12,8 +12,7 @@ image = "blueprint.png"
 {{
         figure(
                 img="holistic.png",
-                description="Holistic Pattern",
-                hidetext=true
+                alttext="Holistic Pattern"
         )
 }}
 
@@ -21,29 +20,25 @@ image = "blueprint.png"
 {{
         figure(
                 img="planet-studies-1.png",
-                description="Planet Studies",
-                hidetext=true
+                alttext="Planet Studies"
         )
 }}
 {{
         figure(
                 img="planet-studies-2.png",
-                description="Planet Studies",
-                hidetext=true
+                alttext="Planet Studies"
         )
 }}
 {{
         figure(
                 img="planet-studies-3.png",
-                description="Planet Studies",
-                hidetext=true
+                alttext="Planet Studies"
         )
 }}
 {{
         figure(
                 img="planet-studies-5.png",
-                description="Planet Studies",
-                hidetext=true
+                alttext="Planet Studies"
         )
 }}
 </div>
@@ -51,35 +46,30 @@ image = "blueprint.png"
 {{
         figure(
                 img="dark.png",
-                description="Dark",
-                hidetext=true
+                alttext="Dark"
         )
 }}
 {{
         figure(
                 img="metal.png",
-                description="Metal",
-                hidetext=true
+                alttext="Metal"
         )
 }}
 {{
         figure(
                 img="stairs.png",
-                description="Stairs",
-                hidetext=true
+                alttext="Stairs"
         )
 }}
 {{
         figure(
                 img="petunia.png",
-                description="Petunia",
-                hidetext=true
+                alttext="Petunia"
         )
 }}
 {{
         figure(
                 img="surface-32.png",
-                description="Surface 32",
-                hidetext=true
+                alttext="Surface 32"
         )
 }}
