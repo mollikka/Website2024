@@ -1,12 +1,13 @@
 +++
 title = "Garmon's Garden"
-description = "Many Wizards comic"
-date = "2025-01-19"
+description = "Garmon and Morbino engage in a battle over the control of nature"
+date = "2025-01-25"
 [taxonomies]
 Language=["en-US"]
 series = ["Many Wizards"]
+tags = ["featured"]
 [extra]
-image="6.png"
+image="preview.png"
 +++
 
 {{
@@ -14,7 +15,7 @@ image="6.png"
                 img="1.png",
                 class="full-width shadow",
                 description="A great tree towers over the garden.",
-                alttext="A great tree towers over the garden. Garmon walks in his garden. Morbino is stalking in the bushes.",
+                alttext="A great tree grows in the middle of the garden. Blue wizard Garmon walks in his garden, looking at the tree. Red wizard Morbino is stalking in the bushes.",
                 useOriginalSize=true
         )
 }}
@@ -52,13 +53,13 @@ image="6.png"
         )
 }}
 
-"Cease! No hose but my own shall water my soil!"
+"Cease! I am fully capable of watering my own soil!"
 
 {{
         figure(
                 img="5.png",
                 class="full-width shadow",
-                description="Garmon screams in anger and summons a great whale that smashes into his garden.",
+                description="Garmon screams in anger and drops a great whale that smashes into his garden.",
                 useOriginalSize=true
         )
 }}
@@ -80,8 +81,8 @@ image="6.png"
         figure(
                 img="7.png",
                 class="full-width shadow",
-                description="Garmon watches his garden from the guardtower he has built."
-                alttext="The great tree has been cut down. Garmon watches his garden from the guardtower he has built. Morbino is stalking behind the moon.",
+                description="Garmon watches his garden from his new guardtower."
+                alttext="The great tree has been cut down. Garmon watches his garden from a white guardtower. Morbino is stalking behind the moon.",
                 useOriginalSize=true
         )
 }}
