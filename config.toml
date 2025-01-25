@@ -23,6 +23,12 @@ author = "Lauri Tervonen"
 highlight_code = true
 highlight_theme = "css"
 
+# Uncomment this to generate syntax highlight css files
+# highlight_themes_css = [
+#   { theme = "OneHalfLight", filename = "syntax-dark.css" },
+#   { theme = "OneHalfDark", filename = "syntax-light.css" },
+# ]
+
 [extra]
 languages = ["en-US", "fi-FI"]
 
