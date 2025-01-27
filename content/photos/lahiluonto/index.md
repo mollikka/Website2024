@@ -1,9 +1,9 @@
 +++
-title = "Pihapiirin kummitukset"
+title = "Pihaluontoa Espoossa"
 description = "Neighborhood nature photography"
 updated = "2025-01-01"
 [extra]
-image = "A2.jpg"
+image = "D1.jpg"
 +++
 
 Neighborhood nature photography from Espoo, Finland
