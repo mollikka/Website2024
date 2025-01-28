@@ -1,14 +1,14 @@
 +++
-title = "Lintubongausta"
-description = "Laurin lintubongauskuva-albumi"
-updated = "2025-01-27"
+title = "Sorsalammella"
+description = "Tunti Kirkkojärvenrannan sorsalammella"
+date = "2025-01-26"
+aliases = ['/photos/birdwatching']
 [taxonomies]
 Language=["fi-FI"]
+tags=["featured"]
 [extra]
 image = "4-sorsa-laskeutuu.jpg"
 +++
-
-## Sorsalammella Espoossa 26.1.2025
 
 Lintubongausta Kirkkojärvenrannan sorsalammella Espoossa 26.1.2025.
 
