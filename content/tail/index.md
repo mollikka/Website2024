@@ -75,6 +75,29 @@ title = "The Backrooms"
         description="2003: Using a laptop"
     )
 }}
+
+{{
+    figure(
+        img="me/1999-gnomes.jpg"
+        description="1999: Gnomes"
+    )
+}}
+
+<div class="sideBySide">
+{{
+    figure(
+        img="me/1999-robot-1.jpg"
+        description="1999: Robot with the bro"
+    )
+}}
+
+{{
+    figure(
+        img="me/1999-robot-2.jpg"
+        description="1999: Being a robot"
+    )
+}}
+</div>
 {{
     figure(
         img="me/1996-chickens.jpg"
