@@ -28,6 +28,12 @@ Neighborhood nature photography from Espoo, Finland
 
 {{
     figure(
+        img="B0.jpg"
+        description="2024-06-22")
+}}
+
+{{
+    figure(
         img="B1.jpg"
         description="2024-06-22")
 }}
