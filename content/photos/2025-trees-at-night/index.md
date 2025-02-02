@@ -1,7 +1,7 @@
 +++
 title = "Pihapuita yöllä"
 description = "Espoon keskuksen pihaistutuksia pimeän jälkeen"
-updated = "2025-02-01"
+date = "2025-02-01"
 [taxonomies]
 Language=["fi-FI"]
 [extra]
@@ -19,11 +19,6 @@ This album is a work in progress.
     figure(
         img="A3.jpg"
         description="2024-10-14")
-}}
-{{
-    figure(
-        img="A-double.jpg"
-        description="Digital composite")
 }}
 {{
     figure(
