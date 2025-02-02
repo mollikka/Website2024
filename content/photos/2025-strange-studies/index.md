@@ -2,8 +2,6 @@
 title = "Strange Studies"
 description = ""
 date="2025-02-02"
-[taxonomies]
-Language=["fi-FI"]
 [extra]
 image="1.jpg"
 portrait="dev"

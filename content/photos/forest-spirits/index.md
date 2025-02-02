@@ -1,15 +1,11 @@
 +++
 title = "Metsän henget"
 description = ""
-updated = "2025-02-01"
+date = "2024-10-12"
 [extra]
 image="B2.jpg"
 portrait="dev"
 +++
-
-{% comment(date='2025-02-01') %}
-This album is a work in progress.
-{% end %}
 
 {{
     figure(

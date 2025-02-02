@@ -2,16 +2,10 @@
 title = "Pihapuita yöllä"
 description = "Espoon keskuksen pihaistutuksia pimeän jälkeen"
 date = "2025-02-01"
-[taxonomies]
-Language=["fi-FI"]
 [extra]
 image="A1.jpg"
 portrait="dev"
 +++
-
-{% comment(date='2025-02-01') %}
-This album is a work in progress.
-{% end %}
 
 ## Electricity
 
