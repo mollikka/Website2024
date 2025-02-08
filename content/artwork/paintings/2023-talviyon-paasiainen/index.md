@@ -2,6 +2,8 @@
 title = "Talviyön pääsiäinen"
 description = "Oil painting"
 date = "2023-04-24"
+[taxonomies]
+tags=["espoo"]
 [extra]
 image = "main.jpg"
 +++

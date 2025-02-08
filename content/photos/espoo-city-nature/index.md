@@ -3,6 +3,8 @@ title = "Vuodet lähiluonnossa"
 description = "Neighborhood nature photography"
 date = "2025-01-30"
 updated = "2025-02-01"
+[taxonomies]
+tags=["espoo"]
 [extra]
 image = "A1.jpg"
 portrait = "dev"
