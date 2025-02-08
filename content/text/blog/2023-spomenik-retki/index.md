@@ -6,7 +6,7 @@ updated = "2024-10-29"
 aliases = ['/text/2023-spomenik-retki']
 [taxonomies]
 Language=["fi-FI"]
-tags=["adventure","featured"]
+tags=["adventure"]
 [extra]
 image = "day3/7.jpg"
 tableOfContents=true

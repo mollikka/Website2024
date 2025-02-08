@@ -5,7 +5,6 @@ date = "2025-01-25"
 [taxonomies]
 Language=["en-US"]
 series = ["Many Wizards"]
-tags = ["featured"]
 [extra]
 image="preview.png"
 +++

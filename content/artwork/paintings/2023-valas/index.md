@@ -3,7 +3,7 @@ title = "Valas"
 description = "Oil painting"
 date = "2023-10-09"
 [taxonomies]
-tags = ["underwater","nature","featured"]
+tags = ["underwater","nature"]
 [extra]
 image = "main.jpg"
 +++

@@ -2,7 +2,7 @@
 title = "Between Worlds"
 date = 2024-03-30
 [taxonomies]
-tags=["albumart","featured"]
+tags=["albumart"]
 [extra]
 image = "ep.png"
 +++

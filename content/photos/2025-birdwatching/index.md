@@ -5,7 +5,7 @@ date = "2025-01-26"
 aliases = ['/photos/birdwatching']
 [taxonomies]
 Language=["fi-FI"]
-tags=["featured","espoo"]
+tags=["espoo"]
 [extra]
 image = "4-sorsa-laskeutuu.jpg"
 +++

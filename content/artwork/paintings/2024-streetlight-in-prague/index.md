@@ -2,8 +2,6 @@
 title = "Streetlight in Prague"
 description = "Oil painting"
 date = "2024-11-11"
-[taxonomies]
-tags = ["featured"]
 [extra]
 image = "main.jpg"
 +++

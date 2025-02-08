@@ -3,7 +3,7 @@ title = "Varis"
 description = "Oil painting"
 date = "2022-10-24"
 [taxonomies]
-tags = ["bird","nature","featured"]
+tags = ["bird","nature"]
 [extra]
 image = "main.jpg"
 +++
