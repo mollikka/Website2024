@@ -18,6 +18,11 @@ portrait="dev"
 }}
 {{
     figure(
+        img="A-double.jpg"
+        description="Digital composite")
+}}
+{{
+    figure(
         img="A1.jpg"
         description="2024-10-14")
 }}
