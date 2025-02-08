@@ -66,11 +66,6 @@ Neighborhood nature photography from Espoo, Finland
 ## Winter
 {{
     figure(
-        img="D0.jpg"
-        description="2023-01-01")
-}}
-{{
-    figure(
         img="D2.jpg"
         description="2021-01-16")
 }}
