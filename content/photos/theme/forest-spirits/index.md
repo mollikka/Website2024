@@ -2,6 +2,7 @@
 title = "Metsän henget"
 description = ""
 date = "2024-10-12"
+aliases = ['/photos/forest-spirits/']
 [extra]
 image="B2.jpg"
 portrait="dev"
