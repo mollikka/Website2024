@@ -2,7 +2,7 @@
 title = "Sorsalammella"
 description = "Tunti Kirkkojärvenrannan sorsalammella"
 date = "2025-01-26"
-aliases = ['/photos/birdwatching']
+aliases = ['/photos/birdwatching','/photos/2025-birdwatching']
 [taxonomies]
 Language=["fi-FI"]
 tags=["espoo"]
@@ -44,4 +44,3 @@ Lintubongausta Kirkkojärvenrannan sorsalammella Espoossa 26.1.2025.
         img="6-sorsat-maassa.jpg"
         description="Paljon sinisorsia")
 }}
-
