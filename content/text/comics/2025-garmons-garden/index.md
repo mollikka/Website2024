@@ -2,6 +2,7 @@
 title = "Garmon's Garden"
 description = "Garmon and Morbino engage in a battle over the control of nature"
 date = "2025-01-25"
+aliases = ['/serial/2025-garmons-garden']
 [taxonomies]
 Language=["en-US"]
 series = ["Many Wizards"]
