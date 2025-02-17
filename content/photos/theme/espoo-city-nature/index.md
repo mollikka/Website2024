@@ -3,6 +3,7 @@ title = "Vuodet lähiluonnossa"
 description = "Neighborhood nature photography"
 date = "2025-01-30"
 updated = "2025-02-01"
+aliases = ['/photos/espoo-city-nature/']
 [taxonomies]
 tags=["espoo"]
 [extra]
@@ -68,4 +69,10 @@ Neighborhood nature photography from Espoo, Finland
     figure(
         img="D2.jpg"
         description="2021-01-16")
+}}
+
+{{
+    figure(
+        img="D24.jpg"
+        description="Christmas Eve, 2014-12-24")
 }}
