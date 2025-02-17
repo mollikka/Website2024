@@ -1,7 +1,7 @@
 +++
 title = "Photos"
-template = "list/gallery.html"
-page_template = "single/essay.html"
+template = "list/galleryWithSubsections.html"
+page_template = "single/artwork.html"
 sort_by = "date"
 [extra]
 theme = "themeRed"
