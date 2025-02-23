@@ -3,7 +3,7 @@ title = "Cloth Grid"
 description = "3D illustrations in Blender"
 date = 2024-03-21
 [taxonomies]
-tags = ["blender"]
+tags = ["blender","featured"]
 [extra]
 image = "spongia-2.png"
 +++

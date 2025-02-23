@@ -3,6 +3,8 @@ title = "Strange Studies"
 description = ""
 date="2025-02-02"
 aliases = ['photos/2025-strange-studies/']
+[taxonomies]
+tags=['featured']
 [extra]
 image="moon.jpg"
 portrait="dev"
