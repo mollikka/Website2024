@@ -15,6 +15,6 @@ Demoniportaali (Portal of My Demo) WebGL graphics demo. Developed and presented 
 
 Soundtrack created using Reaper DAW.
 
-Released at Reaktor November Games LAN event on 11.11.2023.
+Released at Reaktor November Games LAN event on 2023-11-11.
 
 [View the source code on Github](https://github.com/mollikka/DemoNovemberGames2023)

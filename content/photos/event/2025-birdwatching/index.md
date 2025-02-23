@@ -10,7 +10,7 @@ tags=["espoo"]
 image = "4-sorsa-laskeutuu.jpg"
 +++
 
-Lintubongausta Kirkkojärvenrannan sorsalammella Espoossa 26.1.2025.
+Lintubongausta Kirkkojärvenrannan sorsalammella Espoossa 2025-01-26.
 
 {{
     figure(
