@@ -7,7 +7,7 @@ aliases = ['/photos/2023-fog-week']
 image="preview.jpg"
 +++
 
-The week of 20.3.2023 was very foggy in Greater Helsinki area
+The week of 2023-03-20 was very foggy in Greater Helsinki area
 
 {{
     figure(
