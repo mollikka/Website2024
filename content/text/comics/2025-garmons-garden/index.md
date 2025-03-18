@@ -7,12 +7,12 @@ aliases = ['/serial/2025-garmons-garden']
 Language=["en-US"]
 series = ["Many Wizards"]
 [extra]
-image="preview.png"
+image="preview.jpg"
 +++
 
 {{
         figure(
-                img="1.png",
+                img="1.jpg",
                 class="full-width shadow",
                 description="A great tree towers over the garden.",
                 alttext="A great tree grows in the middle of the garden. Blue wizard Garmon walks in his garden, looking at the tree. Red wizard Morbino is stalking in the bushes.",
@@ -24,7 +24,7 @@ image="preview.png"
 
 {{
         figure(
-                img="2.png",
+                img="2.jpg",
                 class="full-width shadow",
                 description="Morbino releases bunnies into the garden. Garmon responds by shooting snakes out of his hands.",
                 useOriginalSize=true
@@ -35,7 +35,7 @@ image="preview.png"
 
 {{
         figure(
-                img="3.png",
+                img="3.jpg",
                 class="full-width shadow",
                 description="Morbino grows flowers in the garden. Garmon responds by conjuring great vines.",
                 useOriginalSize=true
@@ -46,7 +46,7 @@ image="preview.png"
 
 {{
         figure(
-                img="4.png",
+                img="4.jpg",
                 class="full-width shadow",
                 description="Morbino summons a great rain to water the garden.",
                 useOriginalSize=true
@@ -57,7 +57,7 @@ image="preview.png"
 
 {{
         figure(
-                img="5.png",
+                img="5.jpg",
                 class="full-width shadow",
                 description="Garmon screams in anger and drops a great whale that smashes into his garden.",
                 useOriginalSize=true
@@ -68,7 +68,7 @@ image="preview.png"
 
 {{
         figure(
-                img="6.png",
+                img="6.jpg",
                 class="full-width shadow",
                 description="The moon hangs over Garmon's garden.",
                 useOriginalSize=true
@@ -79,7 +79,7 @@ image="preview.png"
 
 {{
         figure(
-                img="7.png",
+                img="7.jpg",
                 class="full-width shadow",
                 description="Garmon watches his garden from his new guardtower."
                 alttext="The great tree has been cut down. Garmon watches his garden from a white guardtower. Morbino is stalking behind the moon.",
