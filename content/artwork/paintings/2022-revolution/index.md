@@ -2,6 +2,8 @@
 title = "Revolution"
 description = "Oil painting"
 date = "2022-10-31"
+[taxonomies]
+tags = ["abstract"]
 [extra]
 image = "revolution.jpg"
 +++
