@@ -1,7 +1,7 @@
 +++
 title = "Sumuinen Kirkkokatu"
 description = "Oil painting"
-date = "2025-11-11"
+date = "2024-11-11"
 [taxonomies]
 tags = ["featured","espoo"]
 [extra]
