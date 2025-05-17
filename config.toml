@@ -40,6 +40,7 @@ menu_items = [
     {name = "music", url = "/music/"},
     {name = "photos", url = "/photos/", theme="themeRed"},
     {name = "text", url = "/text/"},
+    {name = "events", url = "/events/"},
 ]
 
 social_links = [
