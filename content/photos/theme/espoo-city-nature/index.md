@@ -45,6 +45,12 @@ Neighborhood nature photography from Espoo, Finland
         description="2022-07-03")
 }}
 
+{{
+    figure(
+        img="B3.jpg"
+        description="2023-08-13")
+}}
+
 ## Fall
 
 {{

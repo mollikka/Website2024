@@ -55,6 +55,11 @@ portrait="dev"
         img="C3.jpg"
         description="2024-05-12")
 }}
+{{
+    figure(
+        img="C4.jpg"
+        description="2024-05-12")
+}}
 
 ## Tales from the Wind
 
@@ -74,4 +79,18 @@ portrait="dev"
     figure(
         img="AA1.jpg"
         description="2024-10-14")
+}}
+
+## I Sound Like This
+
+{{
+    figure(
+        img="sounds1.jpg"
+        description="2024-10-21")
+}}
+
+{{
+    figure(
+        img="sounds2.jpg"
+        description="2024-10-21")
 }}

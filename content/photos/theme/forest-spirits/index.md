@@ -34,6 +34,12 @@ portrait="dev"
 
 {{
     figure(
+        img="A4.jpg"
+        description="2022-07-05")
+}}
+
+{{
+    figure(
         img="B2.jpg"
         description="2022-07-05")
 }}
