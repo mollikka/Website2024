@@ -35,7 +35,7 @@ portrait="dev"
 {{
     figure(
         img="A4.jpg"
-        description="2024-09-29")
+        description="2024-10-17")
 }}
 
 ## Ghost Cherry

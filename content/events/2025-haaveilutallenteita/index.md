@@ -7,13 +7,42 @@ image="preview.jpg"
 enddate = "2025-06-15"
 +++
 
-Avoin valokuvanäyttely Entressen kirjastossa 2025-05-26/2025-06-15 esittelee Espoossa ottamiani valokuvia.
+Avoin valokuvanäyttely<br>
+Entressen kirjasto, Galleria betoni<br>
+26.5.-15.6.2025<br>
+Kirjaston aukioloaikoina
 
-Taiteilija paikalla
+{{ pagebreak() }}
 
-- maanantaina 2025-05-26 noin klo 17
-- tiistaina 2025-05-27 noin klo 18
-- sunnuntaina 2025-06-15 noin klo 16.
+## Valokuvanäyttely lähiluonnosta
+
+Hei! Olen Lauri, espoolainen kuvataide- ja valokuvausharrastaja. Tervetuloa näyttelyyni, joka esittelee lähiluonnon ja pihapuiden muotoja, valoja ja tunnelmia sellaisina kuin olen kokenut ne iltakävelyilläni ja muilla seikkailuilla.
+
+Valokuvaaminen on minulle samaan aikaan sekä luovaa haaveilua että keskittymistä vaativaa, tarkkaa työtä. Arkinen pihapuu täytyy ensin saada heräämään henkiin, ja sitten täytyy vielä löytää oikeat kameran asetukset, joilla tuo henkiolento uskaltautuu esiin.
+
+## Aiheet
+
+Vaikka puu on arkinen kuvattava, se muuttuu kummalliseksi, kun sitä jää katsomaan. Puut ovat epäsäännöllisen muotoisia, ja niissä tapahtuu koko ajan jotain: oksien narinaa, lehtien kahinaa, kukkien putoamista, valojen liikettä niiden ohi. Tässä näyttelyssä on useita puita, jotka näen lähes päivittäin, mutta hetken katselun jälkeen ne muuttuvat aina hyvin erilaisiksi olennoiksi.
+
+Vuodenajat sekä aurinko, kuu ja sähkövalot tuovat kukin oman henkensä kuviin.
+
+## Prosessi
+
+Työskentelen pääasiassa digijärjestelmäkameralla, joskus myös kännykkäkameralla. En muista objektiivien ominaisuuksia tai kameramalleja ulkoa, mutta käytän mieluiten samoja välineitä niin pitkään, että tunnen niiden mahdollisuudet intuitiivisesti. Minulla on kaksi luotettua zoom-objektiivia ja yksi kiinteäpolttovälinen objektiivi.
+
+Tyypillisellä kuvausreissullani kävelen tutun tai tuntemattoman piha-alueen tai metsän poikki ja katselen ympärilleni. Kun löydän oikean paikan, voin kuvailla samaa kohdetta vartin tai tunnin, ja joskus palaan vielä toisena päivänä kuvaamaan lisää.
+
+Kuvanmuokkauksen tarkoitus on hienosäätää ja korostaa tunnelmaa. Käytän tähän ilmaisia kuvanmuokkausohjelmia. Yritän toistaa kuvaushetken kokemuksen pääasiassa sävykäyrää ja väritasapainoa säätämällä.
+
+## Taiteilija paikalla
+
+- maanantaina 2025-05-26 klo 17
+- tiistaina 2025-05-27 klo 18
+- sunnuntaina 2025-06-15 klo 16
+
+{{ pagebreak() }}
+
+## Kuvat
 
 {{
     figure(
@@ -36,7 +65,7 @@ Taiteilija paikalla
 {{
     figure(
         imgAbsolute="photos/theme/espoo-city-nature/A1.jpg"
-        description="2020-05-29 Olari")
+        description="2020-04-29 Olari")
 }}
 
 {{
@@ -78,7 +107,7 @@ Taiteilija paikalla
 {{
     figure(
         imgAbsolute="photos/theme/2025-trees-at-night/A4.jpg"
-        description="2024-09-29 Espoon keskus")
+        description="2024-10-17 Espoon keskus")
 }}
 
 {{

@@ -22,7 +22,7 @@ Neighborhood nature photography from Espoo, Finland
 {{
     figure(
         img="A1.jpg"
-        description="2020-05-29")
+        description="2020-04-29")
 }}
 
 ## Summer
@@ -69,8 +69,8 @@ Neighborhood nature photography from Espoo, Finland
         description="September, 2024-09-29")
 }}
 
-
 ## Winter
+
 {{
     figure(
         img="D2.jpg"
