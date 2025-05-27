@@ -8,7 +8,7 @@ enddate = "2025-06-15"
 +++
 
 Avoin valokuvanäyttely<br>
-Entressen kirjasto, Galleria betoni<br>
+Entressen kirjasto, Galleria Betoni<br>
 26.5.-15.6.2025<br>
 Kirjaston aukioloaikoina
 
