@@ -2,6 +2,7 @@
 title = "Pihapuita yöllä"
 description = "Espoon keskuksen pihaistutuksia pimeän jälkeen"
 date = "2025-02-01"
+updated = "2025-05-25"
 aliases = ['/photos/2025-trees-at-night/']
 [taxonomies]
 tags=["featured","espoo"]

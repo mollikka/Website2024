@@ -2,7 +2,7 @@
 title = "Vuodet lähiluonnossa"
 description = "Neighborhood nature photography"
 date = "2025-01-30"
-updated = "2025-02-01"
+updated = "2025-05-25"
 aliases = ['/photos/espoo-city-nature/']
 [taxonomies]
 tags=["espoo"]
@@ -10,10 +10,6 @@ tags=["espoo"]
 image = "A1.jpg"
 portrait = "dev"
 +++
-
-{% comment(date='2025-01-30') %}
-This album is a work in progress.
-{% end %}
 
 Neighborhood nature photography from Espoo, Finland
 
