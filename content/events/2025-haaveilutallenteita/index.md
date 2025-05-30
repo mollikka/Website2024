@@ -2,6 +2,8 @@
 title = "Haaveilutallenteita lähialueilta"
 description = "Lähiluonto-valokuvanäyttely Entressen kirjastossa Galleria Betonissa"
 date = "2025-05-26"
+[taxonomies]
+Language=["fi-FI"]
 [extra]
 image="preview.jpg"
 enddate = "2025-06-15"

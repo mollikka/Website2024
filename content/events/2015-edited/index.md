@@ -2,6 +2,8 @@
 title = "Edited Student Exhibition"
 description = "Aaltoliike Project at Habitare"
 date = "2015-09-09"
+[taxonomies]
+Language=["en-US"]
 [extra]
 image="aaltoliike.png"
 enddate = "2025-09-13"
