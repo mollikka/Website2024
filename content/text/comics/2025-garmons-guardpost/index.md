@@ -10,7 +10,7 @@ image="preview.jpg"
 +++
 
 
-"Behold my great tower - grounded by my wisdom and raised by my ambition!
+"Behold my great tower - rooted by my wisdom and raised by my ambition!
 Here I shall remain untouched by Morbino's opposition!"
 
 {{
