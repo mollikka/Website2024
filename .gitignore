@@ -6,3 +6,4 @@ test/node_modules/**
 test/dist/**
 test/externalLinks.json
 test/internalLinks.json
+.env.local
